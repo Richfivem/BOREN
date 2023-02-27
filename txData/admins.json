@@ -1,0 +1,20 @@
+[
+  {
+    "name": "chillbayy",
+    "master": true,
+    "password_hash": "$2a$11$9viw3Sqshdz4IYE2LuhLW.RvXALJHajB8yGivCBrYFJOVetL5g6Ji",
+    "providers": {
+      "citizenfx": {
+        "id": "chillbayy",
+        "identifier": "fivem:9077295",
+        "data": {}
+      },
+      "discord": {
+        "id": "755398562564538389",
+        "identifier": "discord:755398562564538389",
+        "data": {}
+      }
+    },
+    "permissions": []
+  }
+]

@@ -1,0 +1,2722 @@
+
+================================================================
+======== FXServer Starting - 2/27/2023, 12:35:46 AM             
+================================================================
+[    c-scripting-core] Creating script environments for _cfx_internal
+[           resources] Scanning resources.
+[           resources] Found 79 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Error: Could not authenticate server license key. Your key is not matching the initial IP address sufficiently (#2, IP requested is 180.244.138.215, H(in) is DD376-AP, H(ad) is AR165-AP). Please create a new key, or run the server on the right provider.
+Fatal Error: Could not authenticate server license key. Your key is not matching the initial IP address sufficiently (#2, IP requested is 180.244.138.215, H(in) is DD376-AP, H(ad) is AR165-AP). Please create a new key, or run the server on the right provider.> txaReportResources
+> txaEvent "serverShuttingDown" "{＂delay＂:5000,＂author＂:＂chillbayy＂,＂message＂:＂Server restarting (requested by chillbayy).＂}"
+
+================================================================
+======== FXServer Starting - 2/27/2023, 12:36:32 AM             
+================================================================
+[    c-scripting-core] Creating script environments for _cfx_internal
+[           resources] Scanning resources.
+[           resources] Found 79 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Error: Could not authenticate server license key. Your key is not matching the initial IP address sufficFatal Error: Could not authenticate server license key. Your key is not matching the initial IP address sufficiently (#2, IP requested is 180.244.138.215, H(in) is DD376-AP, H(ad) is AR165-AP). Please create a new key, or run the server on the right provider.iently (#2, IP requested is 180.244.138.215, H(in) is DD376-AP, H(ad) is AR165-AP). Please create a new key, or run the server on the right provider.
+> txaEvent "serverShuttingDown" "{＂delay＂:5000,＂author＂:＂chillbayy＂,＂message＂:＂Server restarting (requested by chillbayy).＂}"
+
+================================================================
+======== FXServer Starting - 2/27/2023, 12:37:24 AM             
+================================================================
+[    c-scripting-core] Creating script environments for _cfx_internal
+[           resources] Scanning resources.
+[           resources] Found 79 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Error: Could not authenticate server liceFatal Error: Could not authenticate server license key. Your key is not matching the initial IP address sufficiently (#2, IP requestnse key. Your key is not matching the initial IP address sufficiently (#2, IP requested is 180.244.138.215, H(in) is PE61-AP, H(ad) is AR165-AP). Please create a new key, or run the server on the right provider.
+ed is 180.244.138.215, H(in) is PE61-AP, H(ad) is AR165-AP). Please create a new key, or run the server on the right provider.> txaEvent "serverShuttingDown" "{＂delay＂:5000,＂author＂:＂txAdmin＂,＂message＂:＂Server restarting (failed to start in time).＂}"
+
+================================================================
+======== FXServer Starting - 2/27/2023, 12:38:29 AM             
+================================================================
+[    c-scripting-core] Creating script environments for _cfx_internal
+[           resources] [0mScanning resources.
+[           resources] Found 79 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Error: Could not authenticate server license key. Your key is not matching the initial IP address sufficiently (#2,Fatal Error: Could not authenticate server license key. Your key is not matching the initial IP address sufficiently (#2, IP requested is 180.244.138.215, H(in) is PE61-AP, H(ad) is AR165-AP). Please create a new key, or run the server on the right provider. IP requested is 180.244.138.215, H(in) is PE61-AP, H(ad) is AR165-AP). Please create a new key, or run the server on the right provider.
+> txaEvent "serverShuttingDown" "{＂delay＂:5000,＂author＂:＂chillbayy＂,＂message＂:＂Server restarting (requested by chillbayy).＂}"
+
+================================================================
+======== FXServer Starting - 2/27/2023, 12:39:28 AM             
+================================================================
+[    c-scripting-core] Creating script environments for _cfx_internal
+[           resources] Scanning resources.
+[           resources] Found 79 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[ citizen-server-impl] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdminClient] Version 5.2.0 starting...
+[ citizen-server-impl] Started resource monitor
+[    c-scripting-core] Creating script environments for yarn
+[ citizen-server-impl] Started resource yarn
+[ citizen-server-impl] Running build tasks on resource webpack - it'll restart once completed.
+[    c-resources-core] Could not start dependency webpack for resource chat.
+[ citizen-server-impl] Couldn't start resource chat.
+[ citizen-server-impl] Started resource spawnmanager
+[    c-scripting-core] Creating script environments for hardcap
+[ citizen-server-impl] Started resource hardcap
+[    c-scripting-core] Creating script environments for oxmysql
+[ citizen-server-impl] Started resource oxmysql
+[ citizen-server-impl] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for es_extended
+[ citizen-server-impl] Started resource es_extended
+[    c-scripting-core] Creating script environments for async
+[ citizen-server-impl] Started resource async
+[    c-scripting-core] Creating script environments for cron
+[ citizen-server-impl] Started resource cron
+[    c-scripting-core] Creating script environments for esx_context
+[ citizen-server-impl] Started resource esx_context
+[    c-scripting-core] Creating script environments for esx_identity
+[ citizen-server-impl] Started resource esx_identity
+[    c-scripting-core] Creating script environments for esx_loadingscreen
+[ citizen-server-impl] Started resource esx_loadingscreen
+[ citizen-server-impl] Started resource esx_menu_default
+[ citizen-server-impl] Started resource esx_menu_dialog
+[ citizen-server-impl] Started resource esx_menu_list
+[ citizen-server-impl] Started resource skinchanger
+[    c-scripting-core] Creating script environments for esx_skin
+[ citizen-server-impl] Started resource esx_skin
+[    c-scripting-core] [0mCreating script environments for esx_multicharacter
+[ citizen-server-impl] Started resource esx_multicharacter
+[    c-scripting-core] Creating script environments for esx_notify
+[ citizen-server-impl] Started resource esx_notify
+[    c-scripting-core] Creating script environments for esx_progressbar
+[ citizen-server-impl] Started resource esx_progressbar
+[    c-scripting-core] Creating script environments for esx_textui
+[ citizen-server-impl] Started resource esx_textui
+[                 cmd] Argument count mismatch (passed 2, wanted 1)
+[    c-scripting-core] Creating script environments for pma-voice
+[ citizen-server-impl] Started resource pma-voice
+[    c-scripting-core] Creating script environments for esx-radio
+[ citizen-server-impl] Started resource esx-radio
+[    c-scripting-core] Creating script environments for esx_datastore
+[ citizen-server-impl] Started resource esx_datastore
+[    c-scripting-core] Creating script environments for esx_accessories
+[ citizen-server-impl] Started resource esx_accessories
+[    c-scripting-core] Creating script environments for esx_addonaccount
+[ citizen-server-impl] Started resource esx_addonaccount
+[    c-scripting-core] Creating script environments for esx_addoninventory
+[ citizen-server-impl] Started resource esx_addoninventory
+[    c-scripting-core] Creating script environments for esx_vehicleshop
+[ citizen-server-impl] Started resource esx_vehicleshop
+[    c-scripting-core] Creating script environments for esx_ambulancejob
+[ citizen-server-impl] Started resource esx_ambulancejob
+[ citizen-server-impl] Started resource esx_animations
+[    c-scripting-core] Creating script environments for esx_banking
+[ citizen-server-impl] Started resource esx_banking
+[    c-scripting-core] Creating script environments for esx_barbershop
+[ citizen-server-impl] Started resource esx_barbershop
+[    c-scripting-core] Creating script environments for esx_status
+[ citizen-server-impl] Started resource esx_status
+[    c-scripting-core] Creating script environments for esx_basicneeds
+[ citizen-server-impl] Started resource esx_basicneeds
+[    c-scripting-core] Creating script environments for esx_billing
+[ citizen-server-impl] Started resource esx_billing
+[    c-scripting-core] Creating script environments for esx_boat
+[ citizen-server-impl] Started resource esx_boat
+[    c-scripting-core] Creating script environments for esx_clotheshop
+[ citizen-server-impl] Started resource esx_clotheshop
+[    c-scripting-core] [0mCreating script environments for esx_license
+[ citizen-server-impl] Started resource esx_license
+[    c-scripting-core] Creating script environments for esx_dmvschool
+[ citizen-server-impl] Started resource esx_dmvschool
+[    c-scripting-core] Creating script environments for esx_drugs
+[ citizen-server-impl] Started resource esx_drugs
+[    c-scripting-core] Creating script environments for esx_garage
+[ citizen-server-impl] Started resource esx_garage
+[    c-scripting-core] Creating script environments for esx_hud
+[ citizen-server-impl] Started resource esx_hud
+[    c-scripting-core] Creating script environments for esx_joblisting
+[ citizen-server-impl] Started resource esx_joblisting
+[    c-scripting-core] Creating script environments for esx_jobs
+[ citizen-server-impl] Started resource esx_jobs
+[    c-scripting-core] Creating script environments for esx_lscustom
+[ citizen-server-impl] Started resource esx_lscustom
+[    c-scripting-core] Creating script environments for esx_society
+[ citizen-server-impl] Started resource esx_society
+[    c-scripting-core] Creating script environments for esx_mechanicjob
+[ citizen-server-impl] Started resource esx_mechanicjob
+[    c-scripting-core] Creating script environments for esx_optionalneeds
+[ citizen-server-impl] Started resource esx_optionalneeds
+[    c-scripting-core] Creating script environments for esx_policejob
+[ citizen-server-impl] Started resource esx_policejob
+[    c-scripting-core] Creating script environments for esx_property
+[ citizen-server-impl] Started resource esx_property
+[    c-scripting-core] Creating script environments for esx_rpchat
+[ citizen-server-impl] Started resource esx_rpchat
+[    c-scripting-core] Creating script environments for esx_service
+[ citizen-server-impl] Started resource esx_service
+[    c-scripting-core] Creating script environments for esx_shops
+[ citizen-server-impl] Started resource esx_shops
+[    c-scripting-core] Creating script environments for esx_sit
+[ citizen-server-impl] Started resource esx_sit
+[    c-scripting-core] Creating script environments for esx_taxijob
+[ citizen-server-impl] Started resource esx_taxijob
+[    c-scripting-core] Creating script environments for esx_weaponshop
+[ citizen-server-impl] Started resource esx_weaponshop
+[         script:yarn] [yarn] yarn install v1.22.5
+[38;5;151m[         script:yarn] [1/4] Resolving packages...
+[         script:yarn] [2/4] Fetching packages...
+[         script:yarn] 
+[      script:monitor] [txAdminClient] Threads and commands set up. All Ready.
+[      script:oxmysql] Database server connection established!
+[  script:es_extended] [INFO] ESX Legacy 1.9.3 initialized!
+[      script:esx_hud] [INFO] esx_hud: You are using the latest version!
+[ citizen-server-impl]         fff                          
+[38;5;73m[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://chillbayy-9q4bey.users.cfx.re/
+[script:esx_multichar] [INFO] Updated 11 columns to use VARCHAR(46)
+[ script:esx_property] [INFO] Added Property into datastore_data table
+[         script:yarn] [yarn] info fsevents@2.3.1: The platform "win32" is incompatible with this module.
+[         script:yarn] 
+[         script:yarn] [yarn] info "fsevents@2.3.1" is an optional dependency and failed compatibility check. Excluding it from installation.
+[         script:yarn] 
+[         script:yarn] [yarn] info fsevents@1.2.13: The platform "win32" is incompatible with this module.
+[         script:yarn] info "fsevents@1.2.13" is an optional dependency and failed compatibility check. Excluding it from installation.
+[         script:yarn] 
+[         script:yarn] [0m[yarn] [3/4] Linking dependencies...
+[         script:yarn] 
+[         script:yarn] [yarn] [4/4] Building fresh packages...
+[         script:yarn] 
+[         script:yarn] Error: [yarn] warning Ignored scripts due to flag.
+[         script:yarn] 
+[         script:yarn] [yarn] Done in 7.79s.
+[         script:yarn] 
+[ citizen-server-impl] Build tasks completed - starting resource webpack.
+[    c-scripting-core] [0mCreating script environments for webpack
+[ citizen-server-impl] Running build tasks on resource chat - it'll restart once completed.
+[ citizen-server-impl] Started resource webpack
+[         script:yarn] [yarn] yarn install v1.22.5
+[         script:yarn] 
+[         script:yarn] [yarn] [1/4] Resolving packages...
+[         script:yarn] 
+[         script:yarn] [yarn] [2/4] Fetching packages...
+[         script:yarn] 
+[         script:yarn] [yarn] info fsevents@1.2.11: The platform "win32" is incompatible with this module.
+[         script:yarn] 
+[         script:yarn] [yarn] info "fsevents@1.2.11" is an optional dependency and failed compatibility check. Excluding it from installation.
+[         script:yarn] 
+[         script:yarn] [yarn] [3/4] Linking dependencies...
+[         script:yarn] 
+[         script:yarn] [yarn] [4/4] Building fresh packages...
+[         script:yarn] 
+[         script:yarn] Error: [yarn] warning Ignored scripts due to flag.
+[         script:yarn] 
+[         script:yarn] [yarn] Done in 17.40s.
+[         script:yarn] 
+[      script:webpack] chat: started building webpack.config.js
+[ citizen-server-impl] server thread hitch warning: timer interval of 6002 milliseconds
+[      script:webpack] chat: built webpack.config.js
+[ citizen-server-impl] Build tasks completed - starting resource chat.
+[    c-scripting-core] Creating script environments for chat
+[ citizen-server-impl] Started resource chat
+[ citizen-server-impl] server thread hitch warning: timer interval of 314 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 267 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 269 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 437 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 439 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 444 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 247 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 249 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 254 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 280 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 281 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 217 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 367 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 694 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 310 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 336 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 387 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 123 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 168 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 131 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 240 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 241 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 279 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 101 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 169 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 168 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 203 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 213 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 355 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 117 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 165 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 191 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 191 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 284 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 225 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 251 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 324 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 233 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 161 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 125 milliseconds
+[      script:hardcap] Connecting: bayy
+[ citizen-server-impl] server thread hitch warning: timer interval of 570 milliseconds
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:esx_hud] [ERROR] esx_hud: Setup your custom fuel resource at: client/vehicle/fuel.lua
+[  script:es_extended] [INFO] Player "Boren Admin" has connected to the server. ID: 1
+[  script:es_extended] [INFO] Saved player "Boren Admin"
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+
+================================================================
+======== FXServer Starting - 2/27/2023, 12:48:16 AM             
+================================================================
+[    c-scripting-core] Creating script environments for _cfx_internal
+[           resources] Scanning resources.
+[           resources] Found 83 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[ citizen-server-impl] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdminClient] Version 5.2.0 starting...
+[ citizen-server-impl] Started resource monitor
+[    c-scripting-core] Creating script environments for yarn
+[ citizen-server-impl] Started resource yarn
+[    c-scripting-core] Creating script environments for webpack
+[ citizen-server-impl] Started resource webpack
+[ citizen-server-impl] Running build tasks on resource chat - it'll restart once completed.
+[      script:webpack] chat: started building webpack.config.js
+[ citizen-server-impl] Couldn't start resource chat.
+[ citizen-server-impl] Started resource spawnmanager
+[    c-scripting-core] Creating script environments for hardcap
+[ citizen-server-impl] Started resource hardcap
+[    c-scripting-core] Creating script environments for oxmysql
+[ citizen-server-impl] Started resource oxmysql
+[ citizen-server-impl] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for es_extended
+[ citizen-server-impl] Started resource es_extended
+[    c-scripting-core] Creating script environments for async
+[ citizen-server-impl] Started resource async
+[    c-scripting-core] Creating script environments for cron
+[ citizen-server-impl] Started resource cron
+[    c-scripting-core] Creating script environments for esx_context
+[ citizen-server-impl] Started resource esx_context
+[    c-scripting-core] Creating script environments for esx_identity
+[ citizen-server-impl] Started resource esx_identity
+[    c-scripting-core] Creating script environments for esx_loadingscreen
+[ citizen-server-impl] Started resource esx_loadingscreen
+[ citizen-server-impl] Started resource esx_menu_default
+[ citizen-server-impl] Started resource esx_menu_dialog
+[ citizen-server-impl] Started resource esx_menu_list
+[ citizen-server-impl] Started resource skinchanger
+[    c-scripting-core] Creating script environments for esx_skin
+[ citizen-server-impl] Started resource esx_skin
+[    c-scripting-core] Creating script environments for esx_multicharacter
+[ citizen-server-impl] Started resource esx_multicharacter
+[    c-scripting-core] Creating script environments for esx_notify
+[ citizen-server-impl] Started resource esx_notify
+[    c-scripting-core] Creating script environments for esx_progressbar
+[ citizen-server-impl] Started resource esx_progressbar
+[    c-scripting-core] Creating script environments for esx_textui
+[ citizen-server-impl] Started resource esx_textui
+[                 cmd] Argument count mismatch (passed 2, wanted 1)
+[    c-scripting-core] [0mCreating script environments for ox_lib
+[ citizen-server-impl] Started resource ox_lib
+[    c-scripting-core] Creating script environments for ox_inventory
+[ citizen-server-impl] Started resource ox_inventory
+[    c-scripting-core] Creating script environments for ox_target
+[ citizen-server-impl] Started resource ox_target
+[    c-scripting-core] Creating script environments for pma-voice
+[ citizen-server-impl] Started resource pma-voice
+[    c-scripting-core] Creating script environments for ps-hud
+[       script:ps-hud] Error parsing script @ps-hud/server.lua in resource ps-hud: @ps-hud/server.lua:49: unexpected symbol near '<\226>'
+[    c-scripting-core] Failed to load script server.lua.
+[ citizen-server-impl] Started resource ps-hud
+[    c-scripting-core] Creating script environments for esx-radio
+[ citizen-server-impl] Started resource esx-radio
+[    c-scripting-core] Creating script environments for esx_datastore
+[ citizen-server-impl] Started resource esx_datastore
+[    c-scripting-core] Creating script environments for esx_accessories
+[ citizen-server-impl] Started resource esx_accessories
+[    c-scripting-core] Creating script environments for esx_addonaccount
+[ citizen-server-impl] Started resource esx_addonaccount
+[    c-scripting-core] Creating script environments for esx_addoninventory
+[ citizen-server-impl] Started resource esx_addoninventory
+[    c-scripting-core] Creating script environments for esx_vehicleshop
+[ citizen-server-impl] Started resource esx_vehicleshop
+[    c-scripting-core] Creating script environments for esx_ambulancejob
+[ citizen-server-impl] Started resource esx_ambulancejob
+[ citizen-server-impl] Started resource esx_animations
+[    c-scripting-core] Creating script environments for esx_banking
+[ citizen-server-impl] Started resource esx_banking
+[    c-scripting-core] Creating script environments for esx_barbershop
+[ citizen-server-impl] Started resource esx_barbershop
+[    c-scripting-core] Creating script environments for esx_status
+[ citizen-server-impl] Started resource esx_status
+[    c-scripting-core] Creating script environments for esx_basicneeds
+[ citizen-server-impl] Started resource esx_basicneeds
+[    c-scripting-core] Creating script environments for esx_billing
+[ citizen-server-impl] Started resource esx_billing
+[    c-scripting-core] Creating script environments for esx_boat
+[ citizen-server-impl] Started resource esx_boat
+[    c-scripting-core] Creating script environments for esx_clotheshop
+[ citizen-server-impl] Started resource esx_clotheshop
+[    c-scripting-core] Creating script environments for esx_license
+[ citizen-server-impl] Started resource esx_license
+[    c-scripting-core] Creating script environments for esx_dmvschool
+[ citizen-server-impl] Started resource esx_dmvschool
+[    c-scripting-core] Creating script environments for esx_drugs
+[ citizen-server-impl] Started resource esx_drugs
+[    c-scripting-core] Creating script environments for esx_garage
+[ citizen-server-impl] Started resource esx_garage
+[    c-scripting-core] Creating script environments for esx_hud
+[ citizen-server-impl] Started resource esx_hud
+[    c-scripting-core] Creating script environments for esx_joblisting
+[ citizen-server-impl] Started resource esx_joblisting
+[    c-scripting-core] Creating script environments for esx_jobs
+[ citizen-server-impl] Started resource esx_jobs
+[    c-scripting-core] Creating script environments for esx_lscustom
+[ citizen-server-impl] Started resource esx_lscustom
+[    c-scripting-core] Creating script environments for esx_society
+[ citizen-server-impl] Started resource esx_society
+[    c-scripting-core] Creating script environments for esx_mechanicjob
+[ citizen-server-impl] Started resource esx_mechanicjob
+[    c-scripting-core] Creating script environments for esx_optionalneeds
+[ citizen-server-impl] Started resource esx_optionalneeds
+[    c-scripting-core] Creating script environments for esx_policejob
+[ citizen-server-impl] Started resource esx_policejob
+[    c-scripting-core] Creating script environments for esx_property
+[ citizen-server-impl] Started resource esx_property
+[    c-scripting-core] Creating script environments for esx_rpchat
+[ citizen-server-impl] Started resource esx_rpchat
+[    c-scripting-core] [0mCreating script environments for esx_service
+[ citizen-server-impl] Started resource esx_service
+[    c-scripting-core] Creating script environments for esx_shops
+[ citizen-server-impl] Started resource esx_shops
+[    c-scripting-core] Creating script environments for esx_sit
+[ citizen-server-impl] Started resource esx_sit
+[    c-scripting-core] Creating script environments for esx_taxijob
+[ citizen-server-impl] Started resource esx_taxijob
+[    c-scripting-core] Creating script environments for esx_weaponshop
+[ citizen-server-impl] Started resource esx_weaponshop
+[      script:webpack] chat: built webpack.config.js
+[ citizen-server-impl] Build tasks completed - starting resource chat.
+[    c-scripting-core] Creating script environments for chat
+[ citizen-server-impl] Started resource chat
+[      script:monitor] [txAdminClient] Threads and commands set up. All Ready.
+[      script:oxmysql] Database server connection established!
+[ script:ox_inventory] [info] Database contains 33 items.
+[script:ox_inventory:] Warning: Some third-party resources may conflict with item and inventory data structure.
+[  script:es_extended] [INFO] ESX Legacy 1.9.3 initialized!
+[script:esx_multichar] [INFO] Updated 1 columns to use VARCHAR(46)[0m
+[       script:ox_lib] An update is available for ox_inventory (current version: 2.24.1)
+[       script:ox_lib] https://github.com/overextended/ox_inventory/releases/tag/v2.24.2
+[       script:ox_lib] An update is available for ox_lib (current version: 2.21.0)
+[       script:ox_lib] https://github.com/overextended/ox_lib/releases/tag/v3.0.0
+[      script:esx_hud] [INFO] esx_hud: You are using the latest version!
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://chillbayy-9q4bey.users.cfx.re/
+[ script:ox_inventory] [info] Inventory has loaded 198 items
+[ script:esx_property] [INFO] Added Property into datastore_data table
+> txaEvent "adminsUpdated" "[]"
+> txaEvent "serverShuttingDown" "{＂delay＂:5000,＂author＂:＂chillbayy＂,＂message＂:＂Server restarting (requested by chillbayy).＂}"
+[      script:monitor] Server shutdown imminent. Kicking all players.
+
+================================================================
+======== FXServer Starting - 2/27/2023, 12:49:43 AM             
+================================================================
+[    c-scripting-core] Creating script environments for _cfx_internal
+[           resources] Scanning resources.
+[           resources] Found 83 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[ citizen-server-impl] [0mStarted resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdminClient] Version 5.2.0 starting...
+[ citizen-server-impl] Started resource monitor
+[    c-scripting-core] Creating script environments for yarn
+[ citizen-server-impl] Started resource yarn
+[    c-scripting-core] Creating script environments for webpack
+[ citizen-server-impl] Started resource webpack
+[    c-scripting-core] Creating script environments for chat
+[ citizen-server-impl] Started resource chat
+[ citizen-server-impl] Started resource spawnmanager
+[    c-scripting-core] Creating script environments for hardcap
+[ citizen-server-impl] Started resource hardcap
+[    c-scripting-core] Creating script environments for oxmysql
+[ citizen-server-impl] Started resource oxmysql
+[ citizen-server-impl] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for es_extended
+[ citizen-server-impl] Started resource es_extended
+[    c-scripting-core] Creating script environments for async
+[ citizen-server-impl] Started resource async
+[    c-scripting-core] Creating script environments for cron
+[ citizen-server-impl] Started resource cron
+[    c-scripting-core] Creating script environments for esx_context
+[ citizen-server-impl] Started resource esx_context
+[    c-scripting-core] Creating script environments for esx_identity
+[ citizen-server-impl] Started resource esx_identity
+[    c-scripting-core] Creating script environments for esx_loadingscreen
+[ citizen-server-impl] Started resource esx_loadingscreen
+[ citizen-server-impl] Started resource esx_menu_default
+[ citizen-server-impl] Started resource esx_menu_dialog
+[ citizen-server-impl] Started resource esx_menu_list
+[ citizen-server-impl] Started resource skinchanger
+[    c-scripting-core] Creating script environments for esx_skin
+[ citizen-server-impl] Started resource esx_skin
+[    c-scripting-core] Creating script environments for esx_multicharacter
+[ citizen-server-impl] Started resource esx_multicharacter
+[    c-scripting-core] Creating script environments for esx_notify
+[ citizen-server-impl] Started resource esx_notify
+[    c-scripting-core] Creating script environments for esx_progressbar
+[ citizen-server-impl] Started resource esx_progressbar
+[    c-scripting-core] Creating script environments for esx_textui
+[ citizen-server-impl] Started resource esx_textui
+[                 cmd] Argument count mismatch (passed 2, wanted 1)
+[    c-scripting-core] Creating script environments for ox_lib
+[ citizen-server-impl] Started resource ox_lib
+[    c-scripting-core] Creating script environments for ox_inventory
+[ citizen-server-impl] Started resource ox_inventory
+[    c-scripting-core] Creating script environments for ox_target
+[ citizen-server-impl] Started resource ox_target
+[    c-scripting-core] Creating script environments for pma-voice
+[ citizen-server-impl] Started resource pma-voice
+[    c-scripting-core] Creating script environments for ps-hud
+[       script:ps-hud] Error parsing script @ps-hud/server.lua in resource ps-hud: @ps-hud/server.lua:49: unexpected symbol near '<\226>'
+[    c-scripting-core] Failed to load script server.lua.
+[ citizen-server-impl] Started resource ps-hud
+[    c-scripting-core] Creating script environments for esx-radio
+[ citizen-server-impl] Started resource esx-radio
+[    c-scripting-core] Creating script environments for esx_datastore
+[ citizen-server-impl] Started resource esx_datastore
+[    c-scripting-core] Creating script environments for esx_accessories
+[ citizen-server-impl] Started resource esx_accessories
+[    c-scripting-core] Creating script environments for esx_addonaccount
+[ citizen-server-impl] Started resource esx_addonaccount
+[    c-scripting-core] Creating script environments for esx_addoninventory
+[ citizen-server-impl] Started resource esx_addoninventory
+[    c-scripting-core] Creating script environments for esx_vehicleshop
+[ citizen-server-impl] Started resource esx_vehicleshop
+[    c-scripting-core] Creating script environments for esx_ambulancejob
+[ citizen-server-impl] Started resource esx_ambulancejob
+[ citizen-server-impl] Started resource esx_animations
+[    c-scripting-core] Creating script environments for esx_banking
+[ citizen-server-impl] Started resource esx_banking
+[    c-scripting-core] Creating script environments for esx_barbershop
+[ citizen-server-impl] Started resource esx_barbershop
+[    c-scripting-core] Creating script environments for esx_status
+[ citizen-server-impl] Started resource esx_status
+[    c-scripting-core] Creating script environments for esx_basicneeds
+[ citizen-server-impl] Started resource esx_basicneeds
+[    c-scripting-core] Creating script environments for esx_billing
+[ citizen-server-impl] Started resource esx_billing
+[    c-scripting-core] Creating script environments for esx_boat
+[ citizen-server-impl] Started resource esx_boat
+[    c-scripting-core] Creating script environments for esx_clotheshop
+[ citizen-server-impl] Started resource esx_clotheshop
+[    c-scripting-core] Creating script environments for esx_license
+[ citizen-server-impl] Started resource esx_license
+[    c-scripting-core] Creating script environments for esx_dmvschool
+[ citizen-server-impl] Started resource esx_dmvschool
+[    c-scripting-core] Creating script environments for esx_drugs
+[ citizen-server-impl] Started resource esx_drugs
+[    c-scripting-core] Creating script environments for esx_garage
+[ citizen-server-impl] Started resource esx_garage
+[    c-scripting-core] Creating script environments for esx_hud
+[ citizen-server-impl] Started resource esx_hud
+[    c-scripting-core] [97mCreating script environments for esx_joblisting
+[ citizen-server-impl] Started resource esx_joblisting
+[    c-scripting-core] Creating script environments for esx_jobs
+[ citizen-server-impl] Started resource esx_jobs
+[    c-scripting-core] Creating script environments for esx_lscustom
+[ citizen-server-impl] Started resource esx_lscustom
+[    c-scripting-core] Creating script environments for esx_society
+[ citizen-server-impl] Started resource esx_society
+[    c-scripting-core] Creating script environments for esx_mechanicjob
+[ citizen-server-impl] Started resource esx_mechanicjob
+[    c-scripting-core] Creating script environments for esx_optionalneeds
+[ citizen-server-impl] Started resource esx_optionalneeds
+[    c-scripting-core] Creating script environments for esx_policejob
+[ citizen-server-impl] Started resource esx_policejob
+[    c-scripting-core] Creating script environments for esx_property
+[ citizen-server-impl] Started resource esx_property
+[    c-scripting-core] Creating script environments for esx_rpchat
+[ citizen-server-impl] Started resource esx_rpchat
+[    c-scripting-core] Creating script environments for esx_service
+[ citizen-server-impl] Started resource esx_service
+[    c-scripting-core] Creating script environments for esx_shops
+[ citizen-server-impl] Started resource esx_shops
+[    c-scripting-core] Creating script environments for esx_sit
+[ citizen-server-impl] Started resource esx_sit
+[    c-scripting-core] Creating script environments for esx_taxijob
+[ citizen-server-impl] Started resource esx_taxijob
+[    c-scripting-core] Creating script environments for esx_weaponshop
+[ citizen-server-impl] Started resource esx_weaponshop
+[      script:oxmysql] Database server connection established!
+[      script:monitor] [txAdminClient] Threads and commands set up. All Ready.
+[ script:ox_inventory] [info] Database contains 33 items.
+[script:ox_inventory:] Warning: Some third-party resources may conflict with item and inventory data structure.
+[  script:es_extended] [INFO] ESX Legacy 1.9.3 initialized!
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://chillbayy-9q4bey.users.cfx.re/
+[      script:esx_hud] [INFO] esx_hud: You are using the latest version!
+[       script:ox_lib] An update is available for ox_lib (current version: 2.21.0)
+[       script:ox_lib] https://github.com/overextended/ox_lib/releases/tag/v3.0.0
+[       script:ox_lib] An update is available for ox_inventory (current version: 2.24.1)
+[       script:ox_lib] https://github.com/overextended/ox_inventory/releases/tag/v2.24.2
+[ script:ox_inventory] [info] Inventory has loaded 198 items
+[ script:esx_property] [INFO] Added Property into datastore_data table
+[ citizen-server-impl] sync thread hitch warning: timer interval of 117 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 159 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 118 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 118 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 111 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 184 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 213 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 180 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 266 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 353 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 469 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 164 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 151 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 252 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 210 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 233 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 126 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 188 milliseconds
+[      script:hardcap] Connecting: bayy
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:esx_hud] [ERROR] esx_hud: Setup your custom fuel resource at: client/vehicle/fuel.lua
+[  script:es_extended] [INFO] Player "Boren Admin" has connected to the server. ID: 1
+[  script:es_extended] [ERROR] Server callback "hud:server:getRank" does not exist. Please Check ps-hud for Errors!
+[  script:es_extended] [INFO] Saved player "Boren Admin"
+
+================================================================
+======== FXServer Starting - 2/27/2023, 1:33:40 AM              
+================================================================
+[    c-scripting-core] Creating script environments for _cfx_internal
+[           resources] Scanning resources.
+[resources:esx-vb-ban] Warning: esx-vb-banking-main does not have a resource manifest (fxmanifest.lua)
+[           resources] Found 82 resources.
+[           resources] 1 warning was encountered.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[ citizen-server-impl] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdminClient] Version 5.2.0 starting...
+[ citizen-server-impl] Started resource monitor
+[    c-scripting-core] Creating script environments for yarn
+[ citizen-server-impl] Started resource yarn
+[    c-scripting-core] Creating script environments for webpack
+[ citizen-server-impl] Started resource webpack
+[ citizen-server-impl] Running build tasks on resource chat - it'll restart once completed.
+[      script:webpack] chat: started building webpack.config.js
+[ citizen-server-impl] Couldn't start resource chat.
+[ citizen-server-impl] Started resource spawnmanager
+[    c-scripting-core] [0mCreating script environments for hardcap
+[ citizen-server-impl] Started resource hardcap
+[    c-scripting-core] Creating script environments for oxmysql
+[ citizen-server-impl] Started resource oxmysql
+[ citizen-server-impl] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for es_extended
+[ citizen-server-impl] Started resource es_extended
+[    c-scripting-core] [0mCreating script environments for async
+[ citizen-server-impl] Started resource async
+[    c-scripting-core] Creating script environments for cron
+[ citizen-server-impl] Started resource cron
+[    c-scripting-core] Creating script environments for esx_context
+[ citizen-server-impl] Started resource esx_context
+[    c-scripting-core] Creating script environments for esx_identity
+[ citizen-server-impl] Started resource esx_identity
+[ citizen-server-impl] Started resource esx_loadingscreen
+[ citizen-server-impl] Started resource esx_menu_default
+[ citizen-server-impl] Started resource esx_menu_dialog
+[ citizen-server-impl] Started resource esx_menu_list
+[ citizen-server-impl] Started resource skinchanger
+[    c-scripting-core] Creating script environments for esx_skin
+[ citizen-server-impl] Started resource esx_skin
+[    c-scripting-core] Creating script environments for esx_multicharacter
+[ citizen-server-impl] Started resource esx_multicharacter
+[    c-scripting-core] Creating script environments for esx_notify
+[ citizen-server-impl] Started resource esx_notify
+[    c-scripting-core] Creating script environments for esx_progressbar
+[ citizen-server-impl] Started resource esx_progressbar
+[    c-scripting-core] [0mCreating script environments for esx_textui
+[ citizen-server-impl] Started resource esx_textui
+[                 cmd] Argument count mismatch (passed 2, wanted 1)
+[    c-scripting-core] Creating script environments for ox_lib
+[ citizen-server-impl] Started resource ox_lib
+[    c-scripting-core] Creating script environments for ox_inventory
+[ citizen-server-impl] Started resource ox_inventory
+[    c-scripting-core] [0mCreating script environments for ox_target
+[ citizen-server-impl] Started resource ox_target
+[ citizen-server-impl] Started resource esx_recording-main
+[    c-scripting-core] Creating script environments for pma-voice
+[ citizen-server-impl] Started resource pma-voice
+[    c-scripting-core] Creating script environments for ps-hud
+[       script:ps-hud] Error parsing script @ps-hud/server.lua in resource ps-hud: @ps-hud/server.lua:49: unexpected symbol near '<\226>'
+[    c-scripting-core] [0mFailed to load script server.lua.
+[ citizen-server-impl] Started resource ps-hud
+[    c-scripting-core] Creating script environments for esx-lunar_garage-main
+[ citizen-server-impl] Started resource esx-lunar_garage-main
+[    c-scripting-core] Creating script environments for esx-radio
+[ citizen-server-impl] Started resource esx-radio
+[    c-scripting-core] Creating script environments for esx_datastore
+[ citizen-server-impl] Started resource esx_datastore
+[    c-scripting-core] Creating script environments for esx_accessories
+[ citizen-server-impl] Started resource esx_accessories
+[    c-scripting-core] Creating script environments for esx_addonaccount
+[ citizen-server-impl] Started resource esx_addonaccount
+[    c-scripting-core] Creating script environments for esx_addoninventory
+[ citizen-server-impl] Started resource esx_addoninventory
+[    c-scripting-core] Creating script environments for esx_vehicleshop
+[ citizen-server-impl] Started resource esx_vehicleshop
+[    c-scripting-core] Creating script environments for esx_ambulancejob
+[ citizen-server-impl] Started resource esx_ambulancejob
+[ citizen-server-impl] Started resource esx_animations
+[    c-scripting-core] Creating script environments for esx_barbershop
+[ citizen-server-impl] Started resource esx_barbershop
+[    c-scripting-core] Creating script environments for esx_status
+[ citizen-server-impl] Started resource esx_status
+[    c-scripting-core] Creating script environments for esx_basicneeds
+[ citizen-server-impl] Started resource esx_basicneeds
+[    c-scripting-core] Creating script environments for esx_billing
+[ citizen-server-impl] Started resource esx_billing
+[    c-scripting-core] Creating script environments for esx_clotheshop
+[ citizen-server-impl] Started resource esx_clotheshop
+[    c-scripting-core] Creating script environments for esx_license
+[ citizen-server-impl] Started resource esx_license
+[    c-scripting-core] Creating script environments for esx_dmvschool
+[ citizen-server-impl] Started resource esx_dmvschool
+[    c-scripting-core] Creating script environments for esx_drugs
+[ citizen-server-impl] Started resource esx_drugs
+[    c-scripting-core] Creating script environments for esx_joblisting
+[ citizen-server-impl] Started resource esx_joblisting
+[    c-scripting-core] Creating script environments for esx_jobs
+[ citizen-server-impl] Started resource esx_jobs
+[    c-scripting-core] Creating script environments for esx_lscustom
+[ citizen-server-impl] Started resource esx_lscustom
+[    c-scripting-core] Creating script environments for esx_society
+[ citizen-server-impl] Started resource esx_society
+[    c-scripting-core] Creating script environments for esx_mechanicjob
+[ citizen-server-impl] Started resource esx_mechanicjob
+[    c-scripting-core] [0mCreating script environments for esx_optionalneeds
+[ citizen-server-impl] Started resource esx_optionalneeds
+[    c-scripting-core] Creating script environments for esx_policejob
+[ citizen-server-impl] Started resource esx_policejob
+[    c-scripting-core] Creating script environments for esx_property
+[ citizen-server-impl] Started resource esx_property
+[    c-scripting-core] Creating script environments for esx_rpchat
+[ citizen-server-impl] Started resource esx_rpchat
+[    c-scripting-core] Creating script environments for esx_service
+[ citizen-server-impl] Started resource esx_service
+[    c-scripting-core] Creating script environments for esx_shops
+[ citizen-server-impl] Started resource esx_shops
+[    c-scripting-core] Creating script environments for esx_sit
+[ citizen-server-impl] Started resource esx_sit
+[    c-scripting-core] Creating script environments for esx_taxijob
+[ citizen-server-impl] Started resource esx_taxijob
+[    c-scripting-core] Creating script environments for esx_weaponshop
+[ citizen-server-impl] Started resource esx_weaponshop
+[      script:monitor] [txAdminClient] Threads and commands set up. All Ready.
+[      script:oxmysql] Database server connection established!
+[ script:ox_inventory] [info] Database contains 33 items.
+[38;5;57m[script:ox_inventory:] Warning: Some third-party resources may conflict with item and inventory data structure.
+[  script:es_extended] [INFO] ESX Legacy 1.9.3 initialized!
+[       script:ox_lib] An update is available for ox_inventory (current version: 2.24.1)
+[       script:ox_lib] https://github.com/overextended/ox_inventory/releases/tag/v2.24.2
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl] [91m  cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://chillbayy-9q4bey.users.cfx.re/
+[       script:ox_lib] An update is available for ox_lib (current version: 2.21.0)
+[       script:ox_lib] https://github.com/overextended/ox_lib/releases/tag/v3.0.0
+[ script:ox_inventory] [info] Inventory has loaded 198 items
+[      script:webpack] chat: built webpack.config.js
+[ citizen-server-impl] Build tasks completed - starting resource chat.
+[    c-scripting-core] Creating script environments for chat
+[ citizen-server-impl] Started resource chat
+[ script:esx_property] [INFO] Added Property into datastore_data table
+[ citizen-server-impl] server thread hitch warning: timer interval of 179 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 140 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 156 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 154 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 184 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 155 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 129 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 128 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 207 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 133 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 110 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 119 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 303 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 259 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 110 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 127 milliseconds
+[      script:hardcap] Connecting: bayy
+[ citizen-server-impl] server thread hitch warning: timer interval of 271 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 188 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 312 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 390 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 200 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 698 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 248 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 280 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 399 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 167 milliseconds
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] sync thread hitch warning: timer interval of 149 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 192 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 121 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 164 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 218 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 185 milliseconds
+[  script:es_extended] [INFO] Player "Boren Admin" has connected to the server. ID: 1
+[  script:es_extended] [ERROR] Server callback "hud:server:getRank" does not exist. Please Check ps-hud for Errors!
+[ citizen-server-impl] server thread hitch warning: timer interval of 180 milliseconds
+[  script:es_extended] [INFO] Saved player "Boren Admin"
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+
+================================================================
+======== FXServer Starting - 2/27/2023, 1:48:19 AM              
+================================================================
+[    c-scripting-core] Creating script environments for _cfx_internal
+[           resources] Scanning resources.
+[resources:esx-vb-ban] Warning: esx-vb-banking-main does not have a resource manifest (fxmanifest.lua)
+[           resources] Found 106 resources.
+[           resources] 1 warning was encountered.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[ citizen-server-impl] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdminClient] Version 5.2.0 starting...
+[ citizen-server-impl] Started resource monitor
+[    c-scripting-core] Creating script environments for yarn
+[ citizen-server-impl] Started resource yarn
+[    c-scripting-core] Creating script environments for webpack
+[ citizen-server-impl] Started resource webpack
+[    c-scripting-core] Creating script environments for chat
+[ citizen-server-impl] Started resource chat
+[ citizen-server-impl] Started resource spawnmanager
+[    c-scripting-core] Creating script environments for hardcap
+[ citizen-server-impl] Started resource hardcap
+[    c-scripting-core] Creating script environments for oxmysql
+[ citizen-server-impl] Started resource oxmysql
+[ citizen-server-impl] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for es_extended
+[ citizen-server-impl] Started resource es_extended
+[    c-scripting-core] Creating script environments for async
+[ citizen-server-impl] Started resource async
+[    c-scripting-core] Creating script environments for cron
+[ citizen-server-impl] Started resource cron
+[    c-scripting-core] Creating script environments for esx_context
+[ citizen-server-impl] Started resource esx_context
+[    c-scripting-core] Creating script environments for esx_identity
+[ citizen-server-impl] Started resource esx_identity
+[ citizen-server-impl] Started resource esx_loadingscreen
+[ citizen-server-impl] Started resource esx_menu_default
+[ citizen-server-impl] Started resource esx_menu_dialog
+[ citizen-server-impl] Started resource esx_menu_list
+[ citizen-server-impl] Started resource skinchanger
+[    c-scripting-core] Creating script environments for esx_skin
+[ citizen-server-impl] Started resource esx_skin
+[    c-scripting-core] Creating script environments for esx_multicharacter
+[ citizen-server-impl] Started resource esx_multicharacter
+[    c-scripting-core] Creating script environments for esx_notify
+[ citizen-server-impl] Started resource esx_notify
+[    c-scripting-core] Creating script environments for esx_progressbar
+[ citizen-server-impl] Started resource esx_progressbar
+[    c-scripting-core] Creating script environments for esx_textui
+[ citizen-server-impl] Started resource esx_textui
+[                 cmd] Argument count mismatch (passed 2, wanted 1)
+[    c-scripting-core] Creating script environments for ox_lib
+[ citizen-server-impl] Started resource ox_lib
+[    c-scripting-core] Creating script environments for ox_inventory
+[ citizen-server-impl] Started resource ox_inventory
+[    c-scripting-core] Creating script environments for ox_target
+[ citizen-server-impl] Started resource ox_target
+[ citizen-server-impl] Started resource esx_recording-main
+[ citizen-server-impl] Couldn't find resource category [Jobs].
+[    c-scripting-core] Creating script environments for pma-voice
+[ citizen-server-impl] Started resource pma-voice
+[    c-scripting-core] Creating script environments for ps-hud
+[       script:ps-hud] Error parsing script @ps-hud/server.lua in resource ps-hud: @ps-hud/server.lua:49: unexpected symbol near '<\226>'
+[    c-scripting-core] Failed to load script server.lua.
+[ citizen-server-impl] Started resource ps-hud
+[    c-scripting-core] Creating script environments for esx-lunar_garage-main
+[ citizen-server-impl] Started resource esx-lunar_garage-main
+[    c-scripting-core] Creating script environments for esx-radio
+[ citizen-server-impl] Started resource esx-radio
+[    c-scripting-core] Creating script environments for esx_datastore
+[ citizen-server-impl] Started resource esx_datastore
+[    c-scripting-core] Creating script environments for esx_accessories
+[ citizen-server-impl] Started resource esx_accessories
+[    c-scripting-core] Creating script environments for esx_addonaccount
+[ citizen-server-impl] Started resource esx_addonaccount
+[    c-scripting-core] Creating script environments for esx_addoninventory
+[ citizen-server-impl] Started resource esx_addoninventory
+[    c-scripting-core] [0mCreating script environments for esx_vehicleshop
+[ citizen-server-impl] Started resource esx_vehicleshop
+[    c-scripting-core] Creating script environments for esx_ambulancejob
+[ citizen-server-impl] Started resource esx_ambulancejob
+[ citizen-server-impl] Started resource esx_animations
+[    c-scripting-core] Creating script environments for esx_banking
+[  script:es_extended] [ERROR] Resource esx_banking Used the getSharedObject Event, this event no longer exists! Visit https://documentation.esx-framework.org/tutorials/tutorials-esx/sharedevent for how to fix!
+[  script:esx_banking] Error loading script server/main.lua in resource esx_banking: @esx_banking/server/main.lua:5: attempt to index a nil value (global 'ESX')
+[  script:esx_banking] stack traceback:
+[  script:esx_banking] 	@esx_banking/server/main.lua:5: in main chunk
+[    c-scripting-core] Failed to load script server/main.lua.
+[ citizen-server-impl] Started resource esx_banking
+[    c-scripting-core] Creating script environments for esx_barbershop
+[ citizen-server-impl] Started resource esx_barbershop
+[    c-scripting-core] Creating script environments for esx_status
+[ citizen-server-impl] Started resource esx_status
+[    c-scripting-core] Creating script environments for esx_basicneeds
+[ citizen-server-impl] Started resource esx_basicneeds
+[    c-scripting-core] Creating script environments for esx_billing
+[ citizen-server-impl] Started resource esx_billing
+[    c-scripting-core] Creating script environments for esx_clotheshop
+[ citizen-server-impl] Started resource esx_clotheshop
+[    c-scripting-core] Creating script environments for esx_license
+[ citizen-server-impl] Started resource esx_license
+[    c-scripting-core] Creating script environments for esx_dmvschool
+[ citizen-server-impl] Started resource esx_dmvschool
+[    c-scripting-core] Creating script environments for esx_drugs
+[ citizen-server-impl] Started resource esx_drugs
+[    c-scripting-core] Creating script environments for esx_joblisting
+[ citizen-server-impl] Started resource esx_joblisting
+[    c-scripting-core] Creating script environments for esx_jobs
+[ citizen-server-impl] Started resource esx_jobs
+[    c-scripting-core] Creating script environments for esx_lscustom
+[ citizen-server-impl] Started resource esx_lscustom
+[    c-scripting-core] Creating script environments for esx_society
+[ citizen-server-impl] Started resource esx_society
+[    c-scripting-core] Creating script environments for esx_mechanicjob
+[ citizen-server-impl] Started resource esx_mechanicjob
+[    c-scripting-core] Creating script environments for esx_optionalneeds
+[ citizen-server-impl] Started resource esx_optionalneeds
+[    c-scripting-core] Creating script environments for esx_policejob
+[ citizen-server-impl] Started resource esx_policejob
+[    c-scripting-core] Creating script environments for esx_property
+[ citizen-server-impl] Started resource esx_property
+[    c-scripting-core] Creating script environments for esx_rpchat
+[ citizen-server-impl] Started resource esx_rpchat
+[    c-scripting-core] Creating script environments for esx_service
+[ citizen-server-impl] Started resource esx_service
+[    c-scripting-core] Creating script environments for esx_shops
+[ citizen-server-impl] Started resource esx_shops
+[    c-scripting-core] Creating script environments for esx_sit
+[ citizen-server-impl] Started resource esx_sit
+[    c-scripting-core] Creating script environments for esx_taxijob
+[ citizen-server-impl] Started resource esx_taxijob
+[    c-scripting-core] Creating script environments for esx_weaponshop
+[ citizen-server-impl] Started resource esx_weaponshop
+[      script:oxmysql] Database server connection established!
+[      script:monitor] [txAdminClient] Threads and commands set up. All Ready.
+[ script:ox_inventory] [info] Database contains 33 items.
+[script:ox_inventory:] Warning: Some third-party resources may conflict with item and inventory data structure.
+[  script:es_extended] [INFO] ESX Legacy 1.9.3 initialized!
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://chillbayy-9q4bey.users.cfx.re/
+[       script:ox_lib] An update is available for ox_inventory (current version: 2.24.1)
+[       script:ox_lib] https://github.com/overextended/ox_inventory/releases/tag/v2.24.2
+[       script:ox_lib] An update is available for ox_lib (current version: 2.21.0)
+[       script:ox_lib] https://github.com/overextended/ox_lib/releases/tag/v3.0.0
+[       script:ox_lib] An update is available for ox_target (current version: 1.7.1)
+[       script:ox_lib] https://github.com/overextended/ox_target/releases/tag/v1.7.2
+[ script:ox_inventory] [info] Inventory has loaded 198 items
+[ script:esx_property] [INFO] Added Property into datastore_data table
+[ citizen-server-impl] network thread hitch warning: timer interval of 163 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 206 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 311 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 331 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 160 milliseconds
+[      script:hardcap] Connecting: bayy
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[  script:es_extended] [INFO] Player "Boren Admin" has connected to the server. ID: 1
+[  script:es_extended] [ERROR] Server callback "hud:server:getRank" does not exist. Please Check ps-hud for Errors!
+[script:esx-lunar_gar] char1:854ee8318dc8a6d2587ec081ec7d55afcd163694
+[ citizen-server-impl] Server list query returned an error: System.Net.Sockets.SocketException: Operation timed out <- System.Net.Http.HttpRequestException: Operation timed out (180.244.138.215:30120)
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[  script:es_extended] [INFO] Saved player "Boren Admin"
+
+================================================================
+======== FXServer Starting - 2/27/2023, 1:56:44 AM              
+================================================================
+[    c-scripting-core] Creating script environments for _cfx_internal
+[           resources] Scanning resources.[0m
+[resources:esx-vb-ban] Warning: esx-vb-banking-main does not have a resource manifest (fxmanifest.lua)
+[           resources] Found 106 resources.
+[           resources] 1 warning was encountered.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[ citizen-server-impl] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdminClient] Version 5.2.0 starting...
+[ citizen-server-impl] Started resource monitor
+[    c-scripting-core] Creating script environments for yarn
+[ citizen-server-impl] Started resource yarn
+[    c-scripting-core] Creating script environments for webpack
+[ citizen-server-impl] Started resource webpack
+[    c-scripting-core] Creating script environments for chat
+[ citizen-server-impl] Started resource chat
+[ citizen-server-impl] Started resource spawnmanager
+[    c-scripting-core] Creating script environments for hardcap
+[ citizen-server-impl] Started resource hardcap
+[    c-scripting-core] Creating script environments for oxmysql
+[ citizen-server-impl] Started resource oxmysql
+[ citizen-server-impl] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for es_extended
+[ citizen-server-impl] Started resource es_extended
+[    c-scripting-core] Creating script environments for async
+[ citizen-server-impl] Started resource async
+[    c-scripting-core] Creating script environments for cron
+[ citizen-server-impl] Started resource cron
+[    c-scripting-core] Creating script environments for esx_context
+[ citizen-server-impl] Started resource esx_context
+[    c-scripting-core] Creating script environments for esx_identity
+[ citizen-server-impl] Started resource esx_identity
+[ citizen-server-impl] Started resource esx_loadingscreen
+[ citizen-server-impl] Started resource esx_menu_default
+[ citizen-server-impl] Started resource esx_menu_dialog
+[ citizen-server-impl] Started resource esx_menu_list
+[ citizen-server-impl] Started resource skinchanger
+[    c-scripting-core] Creating script environments for esx_skin
+[ citizen-server-impl] Started resource esx_skin
+[    c-scripting-core] Creating script environments for esx_multicharacter
+[ citizen-server-impl] Started resource esx_multicharacter
+[    c-scripting-core] Creating script environments for esx_notify
+[ citizen-server-impl] Started resource esx_notify
+[    c-scripting-core] Creating script environments for esx_progressbar
+[ citizen-server-impl] Started resource esx_progressbar
+[    c-scripting-core] Creating script environments for esx_textui
+[ citizen-server-impl] Started resource esx_textui
+[                 cmd] Argument count mismatch (passed 2, wanted 1)
+[    c-scripting-core] Creating script environments for ox_lib
+[ citizen-server-impl] Started resource ox_lib
+[    c-scripting-core] Creating script environments for ox_inventory
+[ citizen-server-impl] Started resource ox_inventory
+[    c-scripting-core] Creating script environments for ox_target
+[ citizen-server-impl] Started resource ox_target
+[ citizen-server-impl] Started resource esx_recording-main
+[ citizen-server-impl] Couldn't find resource category [Jobs].
+[    c-scripting-core] Creating script environments for pma-voice
+[ citizen-server-impl] Started resource pma-voice
+[    c-scripting-core] Creating script environments for ps-hud
+[       script:ps-hud] Error parsing script @ps-hud/server.lua in resource ps-hud: @ps-hud/server.lua:49: unexpected symbol near '<\226>'
+[    c-scripting-core] Failed to load script server.lua.
+[ citizen-server-impl] Started resource ps-hud
+[    c-scripting-core] Creating script environments for esx-lunar_garage-main
+[ citizen-server-impl] Started resource esx-lunar_garage-main
+[    c-scripting-core] Creating script environments for esx-radio
+[ citizen-server-impl] Started resource esx-radio
+[    c-scripting-core] Creating script environments for esx_datastore
+[ citizen-server-impl] Started resource esx_datastore
+[    c-scripting-core] Creating script environments for esx_accessories
+[ citizen-server-impl] Started resource esx_accessories
+[    c-scripting-core] Creating script environments for esx_addonaccount
+[ citizen-server-impl] Started resource esx_addonaccount
+[    c-scripting-core] Creating script environments for esx_addoninventory
+[ citizen-server-impl] Started resource esx_addoninventory
+[    c-scripting-core] Creating script environments for esx_vehicleshop
+[ citizen-server-impl] Started resource esx_vehicleshop
+[    c-scripting-core] [0mCreating script environments for esx_ambulancejob
+[ citizen-server-impl] Started resource esx_ambulancejob
+[ citizen-server-impl] Started resource esx_animations
+[    c-scripting-core] Creating script environments for esx_banking
+[ citizen-server-impl] Started resource esx_banking
+[    c-scripting-core] Creating script environments for esx_barbershop
+[ citizen-server-impl] Started resource esx_barbershop
+[    c-scripting-core] [0mCreating script environments for esx_status
+[ citizen-server-impl] Started resource esx_status
+[    c-scripting-core] Creating script environments for esx_basicneeds
+[ citizen-server-impl] Started resource esx_basicneeds
+[    c-scripting-core] Creating script environments for esx_billing
+[ citizen-server-impl] Started resource esx_billing
+[    c-scripting-core] Creating script environments for esx_clotheshop
+[ citizen-server-impl] Started resource esx_clotheshop
+[    c-scripting-core] Creating script environments for esx_license
+[ citizen-server-impl] Started resource esx_license
+[    c-scripting-core] Creating script environments for esx_dmvschool
+[ citizen-server-impl] Started resource esx_dmvschool
+[    c-scripting-core] Creating script environments for esx_drugs
+[ citizen-server-impl] Started resource esx_drugs
+[    c-scripting-core] Creating script environments for esx_joblisting
+[ citizen-server-impl] Started resource esx_joblisting
+[    c-scripting-core] Creating script environments for esx_jobs
+[ citizen-server-impl] Started resource esx_jobs
+[    c-scripting-core] Creating script environments for esx_lscustom
+[ citizen-server-impl] Started resource esx_lscustom
+[    c-scripting-core] Creating script environments for esx_society
+[ citizen-server-impl] Started resource esx_society
+[    c-scripting-core] Creating script environments for esx_mechanicjob
+[ citizen-server-impl] Started resource esx_mechanicjob
+[    c-scripting-core] Creating script environments for esx_optionalneeds
+[ citizen-server-impl] Started resource esx_optionalneeds
+[    c-scripting-core] Creating script environments for esx_policejob
+[ citizen-server-impl] Started resource esx_policejob
+[    c-scripting-core] Creating script environments for esx_property
+[ citizen-server-impl] Started resource esx_property
+[    c-scripting-core] Creating script environments for esx_rpchat
+[ citizen-server-impl] Started resource esx_rpchat
+[    c-scripting-core] Creating script environments for esx_service
+[ citizen-server-impl] Started resource esx_service
+[    c-scripting-core] Creating script environments for esx_shops
+[ citizen-server-impl] Started resource esx_shops
+[    c-scripting-core] Creating script environments for esx_sit
+[ citizen-server-impl] Started resource esx_sit
+[    c-scripting-core] Creating script environments for esx_taxijob
+[ citizen-server-impl] Started resource esx_taxijob
+[    c-scripting-core] Creating script environments for esx_weaponshop
+[ citizen-server-impl] Started resource esx_weaponshop
+[      script:oxmysql] Database server connection established!
+[      script:monitor] [txAdminClient] Threads and commands set up. All Ready.
+[ script:ox_inventory] [info] Database contains 33 items.
+[script:ox_inventory:] Warning: Some third-party resources may conflict with item and inventory data structure.
+[  script:es_extended] [INFO] ESX Legacy 1.9.3 initialized!
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://chillbayy-9q4bey.users.cfx.re/
+[       script:ox_lib] An update is available for ox_inventory (current version: 2.24.1)
+[       script:ox_lib] https://github.com/overextended/ox_inventory/releases/tag/v2.24.2
+[       script:ox_lib] An update is available for ox_lib (current version: 2.21.0)
+[       script:ox_lib] https://github.com/overextended/ox_lib/releases/tag/v3.0.0
+[       script:ox_lib] An update is available for ox_target (current version: 1.7.1)
+[       script:ox_lib] https://github.com/overextended/ox_target/releases/tag/v1.7.2
+[ script:ox_inventory] [info] Inventory has loaded 198 items
+[ script:esx_property] [INFO] Added Property into datastore_data table
+[ citizen-server-impl] sync thread hitch warning: timer interval of 101 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 152 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 183 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 112 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 104 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 156 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 199 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 127 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 101 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 129 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 168 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 104 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 136 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 290 milliseconds
+[      script:hardcap] Connecting: bayy
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[  script:es_extended] [INFO] Player "Boren Admin" has connected to the server. ID: 1
+[  script:es_extended] [ERROR] Server callback "hud:server:getRank" does not exist. Please Check ps-hud for Errors!
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[script:esx-lunar_gar] char1:854ee8318dc8a6d2587ec081ec7d55afcd163694
+[  script:es_extended] [INFO] Saved player "Boren Admin[0m"
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+
+================================================================
+======== FXServer Starting - 2/27/2023, 2:06:56 AM              
+================================================================
+[    c-scripting-core] Creating script environments for _cfx_internal
+[           resources] Scanning resources.
+[resources:esx-vb-ban] Warning: esx-vb-banking-main does not have a resource manifest (fxmanifest.lua)
+[           resources] Found 83 resources.
+[           resources] 1 warning was encountered.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[ citizen-server-impl] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdminClient] Version 5.2.0 starting...
+[ citizen-server-impl] Started resource monitor
+[    c-scripting-core] Creating script environments for yarn
+[ citizen-server-impl] Started resource yarn
+[    c-scripting-core] Creating script environments for webpack
+[ citizen-server-impl] Started resource webpack
+[    c-scripting-core] Creating script environments for chat
+[ citizen-server-impl] Started resource chat
+[ citizen-server-impl] Started resource spawnmanager
+[    c-scripting-core] Creating script environments for hardcap
+[ citizen-server-impl] Started resource hardcap
+[    c-scripting-core] Creating script environments for oxmysql
+[ citizen-server-impl] Started resource oxmysql
+[ citizen-server-impl] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for es_extended
+[ citizen-server-impl] Started resource es_extended
+[    c-scripting-core] Creating script environments for async
+[ citizen-server-impl] Started resource async
+[    c-scripting-core] Creating script environments for cron
+[ citizen-server-impl] Started resource cron
+[    c-scripting-core] Creating script environments for esx_context
+[ citizen-server-impl] Started resource esx_context
+[    c-scripting-core] Creating script environments for esx_identity
+[ citizen-server-impl] Started resource esx_identity
+[ citizen-server-impl] Started resource esx_loadingscreen
+[ citizen-server-impl] Started resource esx_menu_default
+[ citizen-server-impl] Started resource esx_menu_dialog
+[ citizen-server-impl] Started resource esx_menu_list
+[ citizen-server-impl] Started resource skinchanger
+[    c-scripting-core] Creating script environments for esx_skin
+[ citizen-server-impl] Started resource esx_skin
+[    c-scripting-core] Creating script environments for esx_multicharacter
+[ citizen-server-impl] Started resource esx_multicharacter
+[    c-scripting-core] Creating script environments for esx_notify
+[ citizen-server-impl] Started resource esx_notify
+[    c-scripting-core] Creating script environments for esx_progressbar
+[ citizen-server-impl] Started resource esx_progressbar
+[    c-scripting-core] Creating script environments for esx_textui
+[ citizen-server-impl] Started resource esx_textui
+[                 cmd] Argument count mismatch (passed 2, wanted 1)
+[    c-scripting-core] Creating script environments for ox_lib
+[ citizen-server-impl] Started resource ox_lib
+[    c-scripting-core] Creating script environments for ox_inventory
+[ citizen-server-impl] Started resource ox_inventory
+[    c-scripting-core] Creating script environments for ox_target
+[ citizen-server-impl] Started resource ox_target
+[ citizen-server-impl] Started resource esx_recording-main
+[ citizen-server-impl] Couldn't find resource category [Jobs].
+[    c-scripting-core] Creating script environments for pma-voice
+[ citizen-server-impl] Started resource pma-voice
+[    c-scripting-core] Creating script environments for ps-hud
+[       script:ps-hud] Error parsing script @ps-hud/server.lua in resource ps-hud: @ps-hud/server.lua:49: unexpected symbol near '<\226>'
+[    c-scripting-core] Failed to load script server.lua.
+[ citizen-server-impl] Started resource ps-hud
+[    c-scripting-core] Creating script environments for esx-lunar_garage-main
+[ citizen-server-impl] Started resource esx-lunar_garage-main
+[    c-scripting-core] Creating script environments for esx-radio
+[ citizen-server-impl] Started resource esx-radio
+[    c-scripting-core] Creating script environments for esx_datastore
+[ citizen-server-impl] Started resource esx_datastore
+[    c-scripting-core] Creating script environments for esx_accessories
+[ citizen-server-impl] Started resource esx_accessories
+[    c-scripting-core] Creating script environments for esx_addonaccount
+[ citizen-server-impl] Started resource esx_addonaccount
+[    c-scripting-core] [0mCreating script environments for esx_addoninventory
+[ citizen-server-impl] Started resource esx_addoninventory
+[    c-scripting-core] Creating script environments for esx_vehicleshop
+[ citizen-server-impl] Started resource esx_vehicleshop
+[    c-scripting-core] Creating script environments for esx_ambulancejob
+[ citizen-server-impl] Started resource esx_ambulancejob
+[ citizen-server-impl] Started resource esx_animations
+[    c-scripting-core] Creating script environments for esx_banking
+[ citizen-server-impl] Started resource esx_banking
+[38;5;161m[    c-scripting-core] Creating script environments for esx_barbershop
+[ citizen-server-impl] Started resource esx_barbershop
+[    c-scripting-core] Creating script environments for esx_status
+[ citizen-server-impl] Started resource esx_status
+[    c-scripting-core] Creating script environments for esx_basicneeds
+[ citizen-server-impl] Started resource esx_basicneeds
+[    c-scripting-core] Creating script environments for esx_billing
+[ citizen-server-impl] Started resource esx_billing
+[    c-scripting-core] Creating script environments for esx_clotheshop
+[ citizen-server-impl] Started resource esx_clotheshop
+[    c-scripting-core] Creating script environments for esx_license
+[ citizen-server-impl] Started resource esx_license
+[    c-scripting-core] Creating script environments for esx_dmvschool
+[ citizen-server-impl] Started resource esx_dmvschool
+[    c-scripting-core] Creating script environments for esx_drugs
+[ citizen-server-impl] Started resource esx_drugs
+[    c-scripting-core] Creating script environments for esx_joblisting
+[ citizen-server-impl] Started resource esx_joblisting
+[    c-scripting-core] Creating script environments for esx_jobs
+[ citizen-server-impl] Started resource esx_jobs
+[    c-scripting-core] Creating script environments for esx_lscustom
+[ citizen-server-impl] Started resource esx_lscustom
+[    c-scripting-core] Creating script environments for esx_society
+[ citizen-server-impl] Started resource esx_society
+[    c-scripting-core] Creating script environments for esx_mechanicjob
+[ citizen-server-impl] Started resource esx_mechanicjob
+[    c-scripting-core] Creating script environments for esx_optionalneeds
+[ citizen-server-impl] Started resource esx_optionalneeds
+[    c-scripting-core] Creating script environments for esx_policejob
+[ citizen-server-impl] Started resource esx_policejob
+[    c-scripting-core] [0mCreating script environments for esx_property
+[ citizen-server-impl] Started resource esx_property
+[    c-scripting-core] Creating script environments for esx_rpchat
+[ citizen-server-impl] Started resource esx_rpchat
+[    c-scripting-core] Creating script environments for esx_service
+[ citizen-server-impl] Started resource esx_service
+[    c-scripting-core] Creating script environments for esx_shops
+[ citizen-server-impl] Started resource esx_shops
+[    c-scripting-core] Creating script environments for esx_sit
+[ citizen-server-impl] Started resource esx_sit
+[    c-scripting-core] Creating script environments for esx_taxijob
+[ citizen-server-impl] Started resource esx_taxijob
+[    c-scripting-core] Creating script environments for esx_weaponshop
+[ citizen-server-impl] Started resource esx_weaponshop
+[      script:oxmysql] Database server connection established!
+[      script:monitor] [txAdminClient] Threads and commands set up. All Ready.
+[ script:ox_inventory] [info] Database contains 33 items.
+[script:ox_inventory:] Warning: Some third-party resources may conflict with item and inventory data structure.
+[  script:es_extended] [INFO] ESX Legacy 1.9.3 initialized!
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://chillbayy-9q4bey.users.cfx.re/
+[       script:ox_lib] An update is available for ox_lib (current version: 2.21.0)
+[       script:ox_lib] https://github.com/overextended/ox_lib/releases/tag/v3.0.0
+[       script:ox_lib] An update is available for ox_inventory (current version: 2.24.1)
+[       script:ox_lib] https://github.com/overextended/ox_inventory/releases/tag/v2.24.2
+[       script:ox_lib] An update is available for ox_target (current version: 1.7.1)
+[       script:ox_lib] https://github.com/overextended/ox_target/releases/tag/v1.7.2
+[ script:ox_inventory] [info] Inventory has loaded 198 items
+[ script:esx_property] [INFO] Added Property into datastore_data table
+
+================================================================
+======== FXServer Starting - 2/27/2023, 2:11:36 AM              
+================================================================
+[    c-scripting-core] Creating script environments for _cfx_internal
+[           resources] Scanning resources.
+[   resources:esx-job] Warning: esx-job does not have a resource manifest (fxmanifest.lua)
+[resources:esx-vb-ban] Warning: esx-vb-banking-main does not have a resource manifest (fxmanifest.lua)
+[           resources] Found 83 resources.
+[           resources] 2 warnings were encountered.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[ citizen-server-impl] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdminClient] Version 5.2.0 starting...
+[ citizen-server-impl] Started resource monitor
+[    c-scripting-core] Creating script environments for yarn
+[ citizen-server-impl] Started resource yarn
+[    c-scripting-core] Creating script environments for webpack
+[ citizen-server-impl] Started resource webpack
+[    c-scripting-core] Creating script environments for chat
+[ citizen-server-impl] Started resource chat
+[ citizen-server-impl] Started resource spawnmanager
+[    c-scripting-core] Creating script environments for hardcap
+[ citizen-server-impl] Started resource hardcap
+[    c-scripting-core] Creating script environments for oxmysql
+[ citizen-server-impl] Started resource oxmysql
+[ citizen-server-impl] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for es_extended
+[ citizen-server-impl] Started resource es_extended
+[    c-scripting-core] Creating script environments for async
+[ citizen-server-impl] Started resource async
+[    c-scripting-core] Creating script environments for cron
+[ citizen-server-impl] Started resource cron
+[    c-scripting-core] Creating script environments for esx_context
+[ citizen-server-impl] Started resource esx_context
+[    c-scripting-core] Creating script environments for esx_identity
+[ citizen-server-impl] Started resource esx_identity
+[ citizen-server-impl] Started resource esx_loadingscreen
+[ citizen-server-impl] Started resource esx_menu_default
+[ citizen-server-impl] Started resource esx_menu_dialog
+[ citizen-server-impl] Started resource esx_menu_list
+[ citizen-server-impl] Started resource skinchanger
+[    c-scripting-core] [97mCreating script environments for esx_skin
+[ citizen-server-impl] Started resource esx_skin
+[    c-scripting-core] Creating script environments for esx_multicharacter
+[ citizen-server-impl] Started resource esx_multicharacter
+[    c-scripting-core] Creating script environments for esx_notify
+[ citizen-server-impl] Started resource esx_notify
+[    c-scripting-core] Creating script environments for esx_progressbar
+[ citizen-server-impl] Started resource esx_progressbar
+[    c-scripting-core] [97mCreating script environments for esx_textui
+[ citizen-server-impl] Started resource esx_textui
+[                 cmd] Argument count mismatch (passed 2, wanted 1)
+[    c-scripting-core] Creating script environments for ox_lib
+[ citizen-server-impl] Started resource ox_lib
+[    c-scripting-core] Creating script environments for ox_inventory
+[ citizen-server-impl] Started resource ox_inventory
+[    c-scripting-core] Creating script environments for ox_target
+[ citizen-server-impl] Started resource ox_target
+[ citizen-server-impl] Started resource esx_recording-main
+[    c-scripting-core] Creating script environments for pma-voice
+[ citizen-server-impl] Started resource pma-voice
+[    c-scripting-core] Creating script environments for ps-hud
+[       script:ps-hud] Error parsing script @ps-hud/server.lua in resource ps-hud: @ps-hud/server.lua:49: unexpected symbol near '<\226>'
+[    c-scripting-core] Failed to load script server.lua.
+[ citizen-server-impl] Started resource ps-hud
+[    c-scripting-core] Creating script environments for esx-lunar_garage-main
+[script:esx-lunar_gar] Error parsing script @esx-lunar_garage-main/config.lua in resource esx-lunar_garage-main: @esx-lunar_garage-main/config.lua:24: unexpected symbol near '='
+[    c-scripting-core] Failed to load script config.lua.
+[ citizen-server-impl] Started resource esx-lunar_garage-main
+[    c-scripting-core] [97mCreating script environments for esx-radio
+[ citizen-server-impl] Started resource esx-radio
+[    c-scripting-core] Creating script environments for esx_datastore
+[ citizen-server-impl] Started resource esx_datastore
+[    c-scripting-core] Creating script environments for esx_accessories
+[ citizen-server-impl] Started resource esx_accessories
+[    c-scripting-core] Creating script environments for esx_addonaccount
+[ citizen-server-impl] Started resource esx_addonaccount
+[    c-scripting-core] Creating script environments for esx_vehicleshop
+[ citizen-server-impl] Started resource esx_vehicleshop
+[    c-scripting-core] Creating script environments for esx_ambulancejob
+[ citizen-server-impl] Started resource esx_ambulancejob
+[ citizen-server-impl] Started resource esx_animations
+[    c-scripting-core] Creating script environments for esx_banking
+[ citizen-server-impl] Started resource esx_banking
+[    c-scripting-core] Creating script environments for esx_barbershop
+[ citizen-server-impl] Started resource esx_barbershop
+[    c-scripting-core] Creating script environments for esx_status
+[ citizen-server-impl] Started resource esx_status
+[    c-scripting-core] [0mCreating script environments for esx_basicneeds
+[ citizen-server-impl] Started resource esx_basicneeds
+[    c-scripting-core] Creating script environments for esx_billing
+[ citizen-server-impl] Started resource esx_billing
+[    c-scripting-core] Creating script environments for esx_clotheshop
+[ citizen-server-impl] Started resource esx_clotheshop
+[    c-scripting-core] Creating script environments for esx_license
+[ citizen-server-impl] Started resource esx_license
+[    c-scripting-core] [0mCreating script environments for esx_dmvschool
+[ citizen-server-impl] Started resource esx_dmvschool
+[    c-scripting-core] Creating script environments for esx_drugs
+[ citizen-server-impl] Started resource esx_drugs
+[    c-scripting-core] Creating script environments for esx_joblisting
+[ citizen-server-impl] Started resource esx_joblisting
+[    c-scripting-core] Creating script environments for esx_jobs
+[ citizen-server-impl] Started resource esx_jobs
+[    c-scripting-core] Creating script environments for esx_lscustom
+[ citizen-server-impl] Started resource esx_lscustom
+[    c-scripting-core] Creating script environments for esx_society
+[ citizen-server-impl] Started resource esx_society
+[    c-scripting-core] Creating script environments for esx_mechanicjob
+[ citizen-server-impl] Started resource esx_mechanicjob
+[    c-scripting-core] Creating script environments for esx_optionalneeds
+[ citizen-server-impl] Started resource esx_optionalneeds
+[    c-scripting-core] Creating script environments for esx_policejob
+[ citizen-server-impl] Started resource esx_policejob
+[    c-scripting-core] Creating script environments for esx_property
+[ citizen-server-impl] Started resource esx_property
+[    c-scripting-core] Creating script environments for esx_rpchat
+[ citizen-server-impl] Started resource esx_rpchat
+[    c-scripting-core] Creating script environments for esx_service
+[ citizen-server-impl] Started resource esx_service
+[    c-scripting-core] Creating script environments for esx_shops
+[ citizen-server-impl] Started resource esx_shops
+[    c-scripting-core] Creating script environments for esx_sit
+[ citizen-server-impl] Started resource esx_sit
+[    c-scripting-core] Creating script environments for esx_taxijob
+[ citizen-server-impl] Started resource esx_taxijob
+[    c-scripting-core] Creating script environments for esx_weaponshop
+[ citizen-server-impl] Started resource esx_weaponshop
+[      script:oxmysql] Database server connection established!
+[      script:monitor] [txAdminClient] Threads and commands set up. All Ready.
+[ script:ox_inventory] [info] Database contains 33 items.
+[script:ox_inventory:] Warning: Some third-party resources may conflict with item and inventory data structure.
+[  script:es_extended] [INFO] ESX Legacy 1.9.3 initialized!
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://chillbayy-9q4bey.users.cfx.re/
+[       script:ox_lib] An update is available for ox_lib (current version: 2.21.0)
+[       script:ox_lib] https://github.com/overextended/ox_lib/releases/tag/v3.0.0
+[       script:ox_lib] An update is available for ox_target (current version: 1.7.1)
+[       script:ox_lib] https://github.com/overextended/ox_target/releases/tag/v1.7.2
+[       script:ox_lib] An update is available for ox_inventory (current version: 2.24.1)
+[       script:ox_lib] https://github.com/overextended/ox_inventory/releases/tag/v2.24.2
+[ script:ox_inventory] [info] Inventory has loaded 198 items
+[ script:esx_property] [INFO] Added Property into datastore_data table
+[ citizen-server-impl] server thread hitch warning: timer interval of 214 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 153 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 101 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 180 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 203 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 173 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 156 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 159 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 113 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 205 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 271 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 129 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 243 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 161 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 112 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 135 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 168 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 102 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 154 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 117 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 272 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 322 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 491 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 188 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 160 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 105 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 133 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 150 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 503 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 231 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 144 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 1158 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 129 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 128 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 167 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 125 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 108 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 122 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 160 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 270 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 279 milliseconds
+[      script:hardcap] Connecting: bayy
+[ citizen-server-impl] server thread hitch warning: timer interval of 165 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 132 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 373 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 408 milliseconds
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[  script:es_extended] [INFO] Player "Boren Admin" has connected to the server. ID: 1
+[  script:es_extended] [ERROR] Server callback "hud:server:getRank" does not exist. Please Check ps-hud for Errors!
+[ citizen-server-impl] server thread hitch warning: timer interval of 161 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 107 milliseconds
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[  script:es_extended] [INFO] Saved player "Boren Admin"
+
+================================================================
+======== FXServer Starting - 2/27/2023, 2:21:50 AM              
+================================================================
+[    c-scripting-core] Creating script environments for _cfx_internal
+[           resources] Scanning resources.
+[resources:radial%20m] Warning: radial%20menu does not have a resource manifest (fxmanifest.lua)
+[   resources:esx-job] Warning: esx-job does not have a resource manifest (fxmanifest.lua)
+[resources:esx-vb-ban] Warning: esx-vb-banking-main does not have a resource manifest (fxmanifest.lua)
+[           resources] Found 83 resources.
+[           resources] 3 warnings were encountered.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[ citizen-server-impl] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdminClient] Version 5.2.0 starting...
+[ citizen-server-impl] Started resource monitor
+[    c-scripting-core] Creating script environments for yarn
+[ citizen-server-impl] Started resource yarn
+[    c-scripting-core] Creating script environments for webpack
+[ citizen-server-impl] Started resource webpack
+[    c-scripting-core] Creating script environments for chat
+[ citizen-server-impl] Started resource chat
+[ citizen-server-impl] Started resource spawnmanager
+[    c-scripting-core] Creating script environments for hardcap
+[ citizen-server-impl] Started resource hardcap
+[    c-scripting-core] Creating script environments for oxmysql
+[ citizen-server-impl] Started resource oxmysql
+[ citizen-server-impl] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for es_extended
+[ citizen-server-impl] Started resource es_extended
+[    c-scripting-core] Creating script environments for async
+[ citizen-server-impl] Started resource async
+[    c-scripting-core] Creating script environments for cron
+[ citizen-server-impl] Started resource cron
+[    c-scripting-core] Creating script environments for esx_context
+[ citizen-server-impl] Started resource esx_context
+[    c-scripting-core] Creating script environments for esx_identity
+[ citizen-server-impl] Started resource esx_identity
+[ citizen-server-impl] Started resource esx_loadingscreen
+[ citizen-server-impl] Started resource esx_menu_default
+[ citizen-server-impl] Started resource esx_menu_dialog
+[ citizen-server-impl] Started resource esx_menu_list
+[ citizen-server-impl] Started resource skinchanger
+[    c-scripting-core] Creating script environments for esx_skin
+[ citizen-server-impl] Started resource esx_skin
+[    c-scripting-core] Creating script environments for esx_multicharacter
+[ citizen-server-impl] Started resource esx_multicharacter
+[    c-scripting-core] Creating script environments for esx_notify
+[ citizen-server-impl] Started resource esx_notify
+[    c-scripting-core] Creating script environments for esx_progressbar
+[ citizen-server-impl] Started resource esx_progressbar
+[    c-scripting-core] Creating script environments for esx_textui
+[ citizen-server-impl] Started resource esx_textui
+[                 cmd] Argument count mismatch (passed 2, wanted 1)
+[    c-scripting-core] Creating script environments for ox_lib
+[ citizen-server-impl] Started resource ox_lib
+[    c-scripting-core] Creating script environments for ox_inventory
+[ citizen-server-impl] Started resource ox_inventory
+[    c-scripting-core] Creating script environments for ox_target
+[ citizen-server-impl] Started resource ox_target
+[ citizen-server-impl] Started resource esx_recording-main
+[    c-scripting-core] Creating script environments for pma-voice
+[ citizen-server-impl] Started resource pma-voice
+[    c-scripting-core] Creating script environments for ps-hud
+[       script:ps-hud] Error parsing script @ps-hud/server.lua in resource ps-hud: @ps-hud/server.lua:49: unexpected symbol near '<\226>'
+[    c-scripting-core] Failed to load script server.lua.
+[ citizen-server-impl] Started resource ps-hud
+[    c-scripting-core] Creating script environments for esx-lunar_garage-main
+[script:esx-lunar_gar] Error parsing script @esx-lunar_garage-main/config.lua in resource esx-lunar_garage-main: @esx-lunar_garage-main/config.lua:24: unexpected symbol near '='
+[    c-scripting-core] Failed to load script config.lua.
+[ citizen-server-impl] Started resource esx-lunar_garage-main
+[    c-scripting-core] Creating script environments for esx-radio
+[ citizen-server-impl] Started resource esx-radio
+[    c-scripting-core] Creating script environments for esx_datastore
+[ citizen-server-impl] Started resource esx_datastore
+[    c-scripting-core] Creating script environments for esx_accessories
+[ citizen-server-impl] Started resource esx_accessories
+[    c-scripting-core] Creating script environments for esx_addonaccount
+[ citizen-server-impl] Started resource esx_addonaccount
+[    c-scripting-core] Creating script environments for esx_vehicleshop
+[ citizen-server-impl] Started resource esx_vehicleshop
+[    c-scripting-core] Creating script environments for esx_ambulancejob
+[ citizen-server-impl] Started resource esx_ambulancejob
+[ citizen-server-impl] Started resource esx_animations
+[    c-scripting-core] Creating script environments for esx_banking
+[ citizen-server-impl] Started resource esx_banking
+[    c-scripting-core] Creating script environments for esx_barbershop
+[ citizen-server-impl] Started resource esx_barbershop
+[    c-scripting-core] Creating script environments for esx_status
+[ citizen-server-impl] Started resource esx_status
+[    c-scripting-core] Creating script environments for esx_basicneeds
+[ citizen-server-impl] Started resource esx_basicneeds
+[    c-scripting-core] Creating script environments for esx_billing
+[ citizen-server-impl] Started resource esx_billing
+[    c-scripting-core] Creating script environments for esx_clotheshop
+[ citizen-server-impl] Started resource esx_clotheshop
+[    c-scripting-core] Creating script environments for esx_license
+[ citizen-server-impl] Started resource esx_license
+[    c-scripting-core] Creating script environments for esx_dmvschool
+[ citizen-server-impl] Started resource esx_dmvschool
+[    c-scripting-core] Creating script environments for esx_drugs
+[ citizen-server-impl] Started resource esx_drugs
+[    c-scripting-core] Creating script environments for esx_joblisting
+[ citizen-server-impl] Started resource esx_joblisting
+[    c-scripting-core] Creating script environments for esx_jobs
+[ citizen-server-impl] Started resource esx_jobs
+[    c-scripting-core] Creating script environments for esx_lscustom
+[ citizen-server-impl] Started resource esx_lscustom
+[38;5;161m[    c-scripting-core] Creating script environments for esx_society
+[ citizen-server-impl] Started resource esx_society
+[    c-scripting-core] Creating script environments for esx_mechanicjob
+[ citizen-server-impl] Started resource esx_mechanicjob
+[    c-scripting-core] Creating script environments for esx_optionalneeds
+[ citizen-server-impl] Started resource esx_optionalneeds
+[    c-scripting-core] Creating script environments for esx_policejob
+[ citizen-server-impl] Started resource esx_policejob
+[    c-scripting-core] Creating script environments for esx_property
+[ citizen-server-impl] Started resource esx_property
+[    c-scripting-core] [0mCreating script environments for esx_rpchat
+[ citizen-server-impl] Started resource esx_rpchat
+[    c-scripting-core] Creating script environments for esx_service
+[ citizen-server-impl] Started resource esx_service
+[    c-scripting-core] Creating script environments for esx_shops
+[ citizen-server-impl] Started resource esx_shops
+[    c-scripting-core] Creating script environments for esx_sit
+[ citizen-server-impl] Started resource esx_sit
+[    c-scripting-core] Creating script environments for esx_taxijob
+[ citizen-server-impl] Started resource esx_taxijob
+[    c-scripting-core] Creating script environments for esx_weaponshop
+[ citizen-server-impl] Started resource esx_weaponshop
+[      script:oxmysql] Database server connection established!
+[      script:monitor] [txAdminClient] Threads and commands set up. All Ready.
+[ script:ox_inventory] [info] Database contains 33 items.
+[script:ox_inventory:] Warning: Some third-party resources may conflict with item and inventory data structure.
+[  script:es_extended] [INFO] ESX Legacy 1.9.3 initialized!
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://chillbayy-9q4bey.users.cfx.re/
+[       script:ox_lib] An update is available for ox_lib (current version: 2.21.0)
+[       script:ox_lib] https://github.com/overextended/ox_lib/releases/tag/v3.0.0
+[       script:ox_lib] An update is available for ox_target (current version: 1.7.1)
+[38;5;23m[       script:ox_lib] https://github.com/overextended/ox_target/releases/tag/v1.7.2
+[       script:ox_lib] An update is available for ox_inventory (current version: 2.24.1)
+[       script:ox_lib] https://github.com/overextended/ox_inventory/releases/tag/v2.24.2
+[ script:ox_inventory] [info] Inventory has loaded 198 items
+[ script:esx_property] [INFO] Added Property into datastore_data table
+[ citizen-server-impl] server thread hitch warning: timer interval of 179 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 198 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 152 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 180 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 181 milliseconds
+[      script:hardcap] Connecting: bayy
+[ citizen-server-impl] server thread hitch warning: timer interval of 178 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 852 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 190 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 172 milliseconds
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] server thread hitch warning: timer interval of 991 milliseconds
+[  script:es_extended] [INFO] Player "Boren Admin" has connected to the server. ID: 1
+[  script:es_extended] [ERROR] Server callback "hud:server:getRank" does not exist. Please Check ps-hud for Errors!
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[  script:es_extended] [INFO] Saved player "Boren Admin"
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+
+================================================================
+======== FXServer Starting - 2/27/2023, 2:30:43 AM              
+================================================================
+[    c-scripting-core] Creating script environments for _cfx_internal
+[           resources] Scanning resources.
+[resources:radial%20m] Warning: radial%20menu does not have a resource manifest (fxmanifest.lua)
+[   resources:esx-job] Warning: esx-job does not have a resource manifest (fxmanifest.lua)
+[resources:esx-vb-ban] Warning: esx-vb-banking-main does not have a resource manifest (fxmanifest.lua)
+[           resources] Found 84 resources.
+[           resources] 3 warnings were encountered.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[ citizen-server-impl] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdminClient] Version 5.2.0 starting...
+[ citizen-server-impl] Started resource monitor
+[    c-scripting-core] Creating script environments for yarn
+[ citizen-server-impl] Started resource yarn
+[    c-scripting-core] Creating script environments for webpack
+[ citizen-server-impl] Started resource webpack
+[    c-scripting-core] Creating script environments for chat
+[ citizen-server-impl] Started resource chat
+[ citizen-server-impl] Started resource spawnmanager
+[    c-scripting-core] Creating script environments for hardcap
+[ citizen-server-impl] Started resource hardcap
+[    c-scripting-core] Creating script environments for oxmysql
+[ citizen-server-impl] Started resource oxmysql
+[ citizen-server-impl] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for es_extended
+[ citizen-server-impl] Started resource es_extended
+[    c-scripting-core] Creating script environments for async
+[ citizen-server-impl] Started resource async
+[    c-scripting-core] Creating script environments for cron
+[ citizen-server-impl] Started resource cron
+[    c-scripting-core] Creating script environments for esx_context
+[ citizen-server-impl] Started resource esx_context
+[    c-scripting-core] Creating script environments for esx_identity
+[ citizen-server-impl] Started resource esx_identity
+[ citizen-server-impl] Started resource esx_loadingscreen
+[ citizen-server-impl] Started resource esx_menu_default
+[ citizen-server-impl] [97mStarted resource esx_menu_dialog
+[ citizen-server-impl] Started resource esx_menu_list
+[ citizen-server-impl] Started resource skinchanger
+[    c-scripting-core] Creating script environments for esx_skin
+[ citizen-server-impl] Started resource esx_skin
+[    c-scripting-core] Creating script environments for esx_multicharacter
+[ citizen-server-impl] Started resource esx_multicharacter
+[    c-scripting-core] Creating script environments for esx_notify
+[ citizen-server-impl] Started resource esx_notify
+[    c-scripting-core] Creating script environments for esx_progressbar
+[ citizen-server-impl] Started resource esx_progressbar
+[    c-scripting-core] Creating script environments for esx_textui
+[ citizen-server-impl] Started resource esx_textui
+[                 cmd] Argument count mismatch (passed 2, wanted 1)
+[    c-scripting-core] Creating script environments for ox_lib
+[ citizen-server-impl] Started resource ox_lib
+[    c-scripting-core] Creating script environments for ox_inventory
+[ citizen-server-impl] Started resource ox_inventory
+[    c-scripting-core] Creating script environments for ox_target
+[ citizen-server-impl] Started resource ox_target
+[ citizen-server-impl] Started resource esx_recording-main
+[    c-scripting-core] Creating script environments for Roda_OffDuty-main
+[  script:es_extended] [ERROR] Resource Roda_OffDuty-main Used the getSharedObject Event, this event no longer exists! Visit https://documentation.esx-framework.org/tutorials/tutorials-esx/sharedevent for how to fix!
+[ citizen-server-impl] Started resource Roda_OffDuty-main
+[    c-scripting-core] Creating script environments for pma-voice
+[ citizen-server-impl] Started resource pma-voice
+[    c-scripting-core] Creating script environments for ps-hud
+[       script:ps-hud] Error parsing script @ps-hud/server.lua in resource ps-hud: @ps-hud/server.lua:49: unexpected symbol near '<\226>'
+[    c-scripting-core] Failed to load script server.lua.
+[ citizen-server-impl] Started resource ps-hud
+[    c-scripting-core] Creating script environments for esx-lunar_garage-main
+[ citizen-server-impl] Started resource esx-lunar_garage-main
+[    c-scripting-core] Creating script environments for esx-radio
+[ citizen-server-impl] Started resource esx-radio
+[    c-scripting-core] Creating script environments for esx_datastore
+[ citizen-server-impl] Started resource esx_datastore
+[    c-scripting-core] Creating script environments for esx_accessories
+[ citizen-server-impl] Started resource esx_accessories
+[    c-scripting-core] Creating script environments for esx_addonaccount
+[ citizen-server-impl] Started resource esx_addonaccount
+[    c-scripting-core] Creating script environments for esx_vehicleshop
+[ citizen-server-impl] Started resource esx_vehicleshop
+[    c-scripting-core] Creating script environments for esx_ambulancejob
+[ citizen-server-impl] Started resource esx_ambulancejob
+[ citizen-server-impl] Started resource esx_animations
+[    c-scripting-core] Creating script environments for esx_banking
+[ citizen-server-impl] Started resource esx_banking
+[    c-scripting-core] Creating script environments for esx_barbershop
+[ citizen-server-impl] Started resource esx_barbershop
+[    c-scripting-core] Creating script environments for esx_status
+[ citizen-server-impl] Started resource esx_status
+[    c-scripting-core] Creating script environments for esx_basicneeds
+[ citizen-server-impl] Started resource esx_basicneeds
+[    c-scripting-core] [0mCreating script environments for esx_billing
+[ citizen-server-impl] Started resource esx_billing
+[    c-scripting-core] Creating script environments for esx_clotheshop
+[ citizen-server-impl] Started resource esx_clotheshop
+[    c-scripting-core] [0mCreating script environments for esx_license
+[ citizen-server-impl] Started resource esx_license
+[    c-scripting-core] Creating script environments for esx_dmvschool
+[ citizen-server-impl] Started resource esx_dmvschool
+[    c-scripting-core] Creating script environments for esx_drugs
+[ citizen-server-impl] Started resource esx_drugs
+[    c-scripting-core] Creating script environments for esx_joblisting
+[ citizen-server-impl] Started resource esx_joblisting
+[    c-scripting-core] Creating script environments for esx_jobs
+[ citizen-server-impl] Started resource esx_jobs
+[    c-scripting-core] Creating script environments for esx_lscustom
+[ citizen-server-impl] Started resource esx_lscustom
+[    c-scripting-core] Creating script environments for esx_society
+[ citizen-server-impl] Started resource esx_society
+[    c-scripting-core] Creating script environments for esx_mechanicjob
+[ citizen-server-impl] Started resource esx_mechanicjob
+[    c-scripting-core] Creating script environments for esx_optionalneeds
+[ citizen-server-impl] Started resource esx_optionalneeds
+[    c-scripting-core] Creating script environments for esx_policejob
+[ citizen-server-impl] Started resource esx_policejob
+[    c-scripting-core] Creating script environments for esx_property
+[ citizen-server-impl] Started resource esx_property
+[    c-scripting-core] Creating script environments for esx_rpchat
+[ citizen-server-impl] Started resource esx_rpchat
+[    c-scripting-core] Creating script environments for esx_service
+[ citizen-server-impl] Started resource esx_service
+[    c-scripting-core] Creating script environments for esx_shops
+[ citizen-server-impl] Started resource esx_shops
+[    c-scripting-core] Creating script environments for esx_sit
+[ citizen-server-impl] Started resource esx_sit
+[    c-scripting-core] Creating script environments for esx_taxijob
+[ citizen-server-impl] Started resource esx_taxijob
+[    c-scripting-core] Creating script environments for esx_weaponshop
+[ citizen-server-impl] Started resource esx_weaponshop
+[      script:oxmysql] Database server connection established!
+[      script:monitor] [txAdminClient] Threads and commands set up. All Ready.
+[ script:ox_inventory] [info] Database contains 33 items.
+[38;5;57m[script:ox_inventory:] Warning: Some third-party resources may conflict with item and inventory data structure.
+[  script:es_extended] [INFO] ESX Legacy 1.9.3 initialized!
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://chillbayy-9q4bey.users.cfx.re/
+[       script:ox_lib] An update is available for ox_lib (current version: 2.21.0)
+[       script:ox_lib] https://github.com/overextended/ox_lib/releases/tag/v3.0.0
+[       script:ox_lib] An update is available for ox_inventory (current version: 2.24.1)
+[       script:ox_lib] [93mhttps://github.com/overextended/ox_inventory/releases/tag/v2.24.2
+[       script:ox_lib] An update is available for ox_target (current version: 1.7.1)
+[       script:ox_lib] https://github.com/overextended/ox_target/releases/tag/v1.7.2
+[ script:ox_inventory] [info] Inventory has loaded 198 items
+[ script:esx_property] [INFO] Added Property into [36mdatastore_data table
+[ citizen-server-impl] network thread hitch warning: timer interval of 179 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 225 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 178 milliseconds
+[      script:hardcap] Connecting: bayy
+[ citizen-server-impl] Server list query returned an error: System.Net.Sockets.SocketException: Operation timed out <- System.Net.Http.HttpRequestException: Operation timed out (180.244.138.215:30120)
+[  script:es_extended] [INFO] Player "Boren Admin" has connected to the server. ID: 1
+[  script:es_extended] [ERROR] Server callback "hud:server:getRank" does not exist. Please Check ps-hud for Errors!
+[script:esx-lunar_gar] char1:854ee8318dc8a6d2587ec081ec7d55afcd163694
+[script:esx-lunar_gar] char1:854ee8318dc8a6d2587ec081ec7d55afcd163694
+[         script:chat] bayy: tpm
+[script:esx-lunar_gar] char1:854ee8318dc8a6d2587ec081ec7d55afcd163694
+[  script:es_extended] [INFO] Saved player "Boren Admin"
+
+================================================================
+======== FXServer Starting - 2/27/2023, 6:54:37 AM              
+================================================================
+[    c-scripting-core] Creating script environments for _cfx_internal
+[           resources] Scanning resources.
+[resources:Roda_OffDu] Warning: [Roda_OffDuty-main] is a category, but has a resource manifest (if this is meant to be a resource, don't use [] around the name)
+[   resources:esx-job] Warning: esx-job does not have a resource manifest (fxmanifest.lua)
+[resources:esx-vb-ban] Warning: esx-vb-banking-main does not have a resource manifest (fxmanifest.lua)
+[    resources:Client] Warning: Client does not have a resource manifest (fxmanifest.lua)
+[      resources:html] Warning: html does not have a resource manifest (fxmanifest.lua)
+[    resources:Server] Warning: Server does not have a resource manifest (fxmanifest.lua)
+[           resources] Found 88 resources.
+[           resources] 6 warnings were encountered.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[ citizen-server-impl] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdminClient] Version 5.2.0 starting...
+[ citizen-server-impl] Started resource monitor
+[    c-scripting-core] Creating script environments for yarn
+[ citizen-server-impl] Started resource yarn
+[    c-scripting-core] Creating script environments for webpack
+[ citizen-server-impl] Started resource webpack
+[ citizen-server-impl] Running build tasks on resource chat - it'll restart once completed.
+[      script:webpack] chat: started building webpack.config.js
+[ citizen-server-impl] Couldn't start resource chat.
+[ citizen-server-impl] Started resource spawnmanager
+[    c-scripting-core] Creating script environments for hardcap
+[ citizen-server-impl] Started resource hardcap
+[    c-scripting-core] Creating script environments for oxmysql
+[ citizen-server-impl] Started resource oxmysql
+[ citizen-server-impl] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for es_extended
+[ citizen-server-impl] Started resource es_extended
+[    c-scripting-core] Creating script environments for async
+[ citizen-server-impl] Started resource async
+[    c-scripting-core] Creating script environments for cron
+[ citizen-server-impl] Started resource cron
+[    c-scripting-core] Creating script environments for esx_context
+[ citizen-server-impl] Started resource esx_context
+[    c-scripting-core] Creating script environments for esx_identity
+[ citizen-server-impl] Started resource esx_identity
+[ citizen-server-impl] Started resource esx_loadingscreen
+[ citizen-server-impl] Started resource esx_menu_default
+[ citizen-server-impl] Started resource esx_menu_dialog
+[ citizen-server-impl] Started resource esx_menu_list
+[ citizen-server-impl] Started resource skinchanger
+[    c-scripting-core] Creating script environments for esx_skin
+[ citizen-server-impl] Started resource esx_skin
+[    c-scripting-core] Creating script environments for esx_multicharacter
+[ citizen-server-impl] Started resource esx_multicharacter
+[    c-scripting-core] Creating script environments for esx_notify
+[ citizen-server-impl] Started resource esx_notify
+[    c-scripting-core] Creating script environments for esx_progressbar
+[ citizen-server-impl] Started resource esx_progressbar
+[    c-scripting-core] Creating script environments for esx_textui
+[ citizen-server-impl] Started resource esx_textui
+[                 cmd] Argument count mismatch (passed 2, wanted 1)
+[    c-scripting-core] Creating script environments for ox_lib
+[ citizen-server-impl] Started resource ox_lib
+[    c-scripting-core] Creating script environments for ox_inventory
+[ citizen-server-impl] Started resource ox_inventory
+[    c-scripting-core] Creating script environments for ox_target
+[ citizen-server-impl] Started resource ox_target
+[ citizen-server-impl] Started resource esx_recording-main
+[ citizen-server-impl] Couldn't find resource category [Roda_OffDuty-main].
+[ citizen-server-impl] Couldn't find resource category [Vehicles].
+[ citizen-server-impl] Started resource SLBK11_MissionRow
+[    c-scripting-core] Creating script environments for pma-voice
+[ citizen-server-impl] Started resource pma-voice
+[    c-scripting-core] Creating script environments for ps-hud
+[       script:ps-hud] Error parsing script @ps-hud/server.lua in resource ps-hud: @ps-hud/server.lua:49: unexpected symbol near '<\226>'
+[    c-scripting-core] Failed to load script server.lua.
+[ citizen-server-impl] Started resource ps-hud
+[    c-scripting-core] Creating script environments for esx-lunar_garage-main
+[ citizen-server-impl] Started resource esx-lunar_garage-main
+[    c-scripting-core] Creating script environments for esx-radio
+[ citizen-server-impl] Started resource esx-radio
+[    c-scripting-core] Creating script environments for esx_datastore
+[ citizen-server-impl] Started resource esx_datastore
+[    c-scripting-core] Creating script environments for esx_accessories
+[ citizen-server-impl] Started resource esx_accessories
+[    c-scripting-core] Creating script environments for esx_addonaccount
+[ citizen-server-impl] Started resource esx_addonaccount
+[    c-scripting-core] Creating script environments for esx_vehicleshop
+[ citizen-server-impl] Started resource esx_vehicleshop
+[    c-scripting-core] Creating script environments for esx_ambulancejob
+[ citizen-server-impl] Started resource esx_ambulancejob
+[ citizen-server-impl] Started resource esx_animations
+[    c-scripting-core] Creating script environments for esx_banking
+[ citizen-server-impl] Started resource esx_banking
+[    c-scripting-core] Creating script environments for esx_barbershop
+[ citizen-server-impl] Started resource esx_barbershop
+[    c-scripting-core] Creating script environments for esx_status
+[ citizen-server-impl] Started resource esx_status
+[    c-scripting-core] Creating script environments for esx_basicneeds
+[ citizen-server-impl] Started resource esx_basicneeds
+[    c-scripting-core] Creating script environments for esx_billing
+[ citizen-server-impl] Started resource esx_billing
+[    c-scripting-core] Creating script environments for esx_clotheshop
+[ citizen-server-impl] Started resource esx_clotheshop
+[    c-scripting-core] Creating script environments for esx_license
+[ citizen-server-impl] Started resource esx_license
+[    c-scripting-core] Creating script environments for esx_dmvschool
+[ citizen-server-impl] Started resource esx_dmvschool
+[    c-scripting-core] Creating script environments for esx_drugs
+[ citizen-server-impl] Started resource esx_drugs
+[    c-scripting-core] Creating script environments for esx_joblisting
+[ citizen-server-impl] Started resource esx_joblisting
+[    c-scripting-core] Creating script environments for esx_jobs
+[ citizen-server-impl] Started resource esx_jobs
+[    c-scripting-core] Creating script environments for esx_lscustom
+[ citizen-server-impl] Started resource esx_lscustom
+[    c-scripting-core] Creating script environments for esx_society
+[ citizen-server-impl] Started resource esx_society
+[    c-scripting-core] Creating script environments for esx_mechanicjob
+[ citizen-server-impl] Started resource esx_mechanicjob
+[    c-scripting-core] Creating script environments for esx_optionalneeds
+[ citizen-server-impl] Started resource esx_optionalneeds
+[    c-scripting-core] Creating script environments for esx_policejob
+[ citizen-server-impl] Started resource esx_policejob
+[    c-scripting-core] Creating script environments for esx_property
+[ citizen-server-impl] Started resource esx_property
+[    c-scripting-core] Creating script environments for esx_rpchat
+[ citizen-server-impl] Started resource esx_rpchat
+[    c-scripting-core] Creating script environments for esx_service
+[ citizen-server-impl] Started resource esx_service
+[    c-scripting-core] Creating script environments for esx_shops
+
+================================================================
+======== FXServer Starting - 2/27/2023, 6:54:58 AM              
+================================================================
+[    c-scripting-core] Creating script environments for _cfx_internal
+[           resources] Scanning resources.
+[resources:Roda_OffDu] Warning: [Roda_OffDuty-main] is a category, but has a resource manifest (if this is meant to be a resource, don't use [] around the name)
+[   resources:esx-job] Warning: esx-job does not have a resource manifest (fxmanifest.lua)
+[resources:esx-vb-ban] Warning: esx-vb-banking-main does not have a resource manifest (fxmanifest.lua)
+[    resources:Client] Warning: Client does not have a resource manifest (fxmanifest.lua)
+[      resources:html] Warning: html does not have a resource manifest (fxmanifest.lua)
+[    resources:Server] Warning: Server does not have a resource manifest (fxmanifest.lua)
+[           resources] Found 88 resources.
+[           resources] 6 warnings were encountered.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[ citizen-server-impl] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdminClient] Version 5.2.0 starting...
+[ citizen-server-impl] Started resource monitor
+[    c-scripting-core] Creating script environments for yarn
+[ citizen-server-impl] Started resource yarn
+[    c-scripting-core] Creating script environments for webpack
+[ citizen-server-impl] Started resource webpack
+[ citizen-server-impl] Running build tasks on resource chat - it'll restart once completed.
+[      script:webpack] chat: started building webpack.config.js
+[ citizen-server-impl] Couldn't start resource chat.
+[ citizen-server-impl] Started resource spawnmanager
+[    c-scripting-core] Creating script environments for hardcap
+[ citizen-server-impl] Started resource hardcap
+[    c-scripting-core] Creating script environments for oxmysql
+[ citizen-server-impl] Started resource oxmysql
+[ citizen-server-impl] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for es_extended
+[ citizen-server-impl] Started resource es_extended
+[    c-scripting-core] Creating script environments for async
+[ citizen-server-impl] Started resource async
+[    c-scripting-core] Creating script environments for cron
+[ citizen-server-impl] Started resource cron
+[    c-scripting-core] Creating script environments for esx_context
+[ citizen-server-impl] Started resource esx_context
+[    c-scripting-core] Creating script environments for esx_identity
+[ citizen-server-impl] Started resource esx_identity
+[ citizen-server-impl] Started resource esx_loadingscreen
+[ citizen-server-impl] Started resource esx_menu_default
+[ citizen-server-impl] Started resource esx_menu_dialog
+[ citizen-server-impl] Started resource esx_menu_list
+[ citizen-server-impl] Started resource skinchanger
+[    c-scripting-core] Creating script environments for esx_skin
+[ citizen-server-impl] Started resource esx_skin
+[    c-scripting-core] Creating script environments for esx_multicharacter
+[ citizen-server-impl] Started resource esx_multicharacter
+[    c-scripting-core] Creating script environments for esx_notify
+[ citizen-server-impl] Started resource esx_notify
+[    c-scripting-core] Creating script environments for esx_progressbar
+[ citizen-server-impl] Started resource esx_progressbar
+[    c-scripting-core] Creating script environments for esx_textui
+[ citizen-server-impl] Started resource esx_textui
+[                 cmd] Argument count mismatch (passed 2, wanted 1)
+[    c-scripting-core] Creating script environments for ox_lib
+[ citizen-server-impl] Started resource ox_lib
+[    c-scripting-core] Creating script environments for ox_inventory
+[ citizen-server-impl] Started resource ox_inventory
+[    c-scripting-core] Creating script environments for ox_target
+[ citizen-server-impl] Started resource ox_target
+[ citizen-server-impl] Started resource esx_recording-main
+[ citizen-server-impl] Couldn't find resource category [Roda_OffDuty-main].
+[ citizen-server-impl] Couldn't find resource category [Vehicles].
+[ citizen-server-impl] Started resource SLBK11_MissionRow
+[    c-scripting-core] Creating script environments for pma-voice
+[ citizen-server-impl] Started resource pma-voice
+[    c-scripting-core] Creating script environments for ps-hud
+[       script:ps-hud] Error parsing script @ps-hud/server.lua in resource ps-hud: @ps-hud/server.lua:49: unexpected symbol near '<\226>'
+[    c-scripting-core] Failed to load script server.lua.
+[ citizen-server-impl] Started resource ps-hud
+[    c-scripting-core] Creating script environments for esx-lunar_garage-main
+[ citizen-server-impl] Started resource esx-lunar_garage-main
+[    c-scripting-core] Creating script environments for esx-radio
+[ citizen-server-impl] Started resource esx-radio
+[    c-scripting-core] Creating script environments for esx_datastore
+[ citizen-server-impl] Started resource esx_datastore
+[    c-scripting-core] Creating script environments for esx_accessories
+[ citizen-server-impl] Started resource esx_accessories
+[    c-scripting-core] Creating script environments for esx_addonaccount
+[ citizen-server-impl] Started resource esx_addonaccount
+[    c-scripting-core] Creating script environments for esx_vehicleshop
+[ citizen-server-impl] Started resource esx_vehicleshop
+[    c-scripting-core] Creating script environments for esx_ambulancejob
+[ citizen-server-impl] Started resource esx_ambulancejob
+[ citizen-server-impl] Started resource esx_animations
+[    c-scripting-core] Creating script environments for esx_banking
+[ citizen-server-impl] Started resource esx_banking
+[    c-scripting-core] Creating script environments for esx_barbershop
+[ citizen-server-impl] Started resource esx_barbershop
+[    c-scripting-core] Creating script environments for esx_status
+[38;5;73m[ citizen-server-impl] Started resource esx_status
+[    c-scripting-core] Creating script environments for esx_basicneeds
+[ citizen-server-impl] Started resource esx_basicneeds
+[    c-scripting-core] Creating script environments for esx_billing
+[ citizen-server-impl] Started resource esx_billing
+[    c-scripting-core] Creating script environments for esx_clotheshop
+[ citizen-server-impl] Started resource esx_clotheshop
+[    c-scripting-core] Creating script environments for esx_license
+[ citizen-server-impl] Started resource esx_license
+[    c-scripting-core] Creating script environments for esx_dmvschool
+[ citizen-server-impl] Started resource esx_dmvschool
+[    c-scripting-core] Creating script environments for esx_drugs
+[ citizen-server-impl] Started resource esx_drugs
+[    c-scripting-core] Creating script environments for esx_joblisting
+[ citizen-server-impl] Started resource esx_joblisting
+[    c-scripting-core] Creating script environments for esx_jobs
+[ citizen-server-impl] Started resource esx_jobs
+[    c-scripting-core] Creating script environments for esx_lscustom
+[ citizen-server-impl] Started resource esx_lscustom
+[    c-scripting-core] Creating script environments for esx_society
+[ citizen-server-impl] Started resource esx_society
+[    c-scripting-core] Creating script environments for esx_mechanicjob
+[ citizen-server-impl] Started resource esx_mechanicjob
+[    c-scripting-core] Creating script environments for esx_optionalneeds
+[ citizen-server-impl] Started resource esx_optionalneeds
+[    c-scripting-core] Creating script environments for esx_policejob
+[ citizen-server-impl] Started resource esx_policejob
+[    c-scripting-core] Creating script environments for esx_property
+[ citizen-server-impl] Started resource esx_property
+[    c-scripting-core] Creating script environments for esx_rpchat
+[ citizen-server-impl] Started resource esx_rpchat
+[    c-scripting-core] Creating script environments for esx_service
+[ citizen-server-impl] Started resource esx_service
+[    c-scripting-core] Creating script environments for esx_shops
+[ citizen-server-impl] Started resource esx_shops
+[    c-scripting-core] Creating script environments for esx_sit
+[ citizen-server-impl] Started resource esx_sit
+[38;5;161m[    c-scripting-core] Creating script environments for esx_taxijob
+[ citizen-server-impl] Started resource esx_taxijob
+[    c-scripting-core] Creating script environments for esx_weaponshop
+[ citizen-server-impl] Started resource esx_weaponshop
+[      script:monitor] [txAdminClient] Threads and commands set up. All Ready.
+[      script:oxmysql] Database server connection established!
+[ script:ox_inventory] [info] Database contains 33 items.
+[script:ox_inventory:] Warning: Some third-party resources may conflict with item and inventory data structure.
+[  script:es_extended] [INFO] ESX Legacy 1.9.3 initialized!
+[      script:oxmysql] [WARNING] esx_multicharacter took 207.6741ms to execute a query!
+[      script:oxmysql]     SELECT TABLE_NAME, COLUMN_NAME, CHARACTER_MAXIMUM_LENGTH FROM INFORMATION_SCHEMA.COLUMNS WHERE TABLE_SCHEMA = "ESXLegacy_FB9784" AND DATA_TYPE = "varchar" AND COLUMN_NAME IN (?) [["identifier","owner"]]
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://chillbayy-9q4bey.users.cfx.re/
+[       script:ox_lib] An update is available for ox_lib (current version: 2.21.0)
+[       script:ox_lib] https://github.com/overextended/ox_lib/releases/tag/v3.0.1
+[       script:ox_lib] An update is available for ox_target (current version: 1.7.1)
+[       script:ox_lib] https://github.com/overextended/ox_target/releases/tag/v1.7.2
+[       script:ox_lib] An update is available for ox_inventory (current version: 2.24.1)
+[       script:ox_lib] https://github.com/overextended/ox_inventory/releases/tag/v2.24.2
+[ script:ox_inventory] [info] Inventory has loaded 198 items
+[ script:esx_property] [INFO[0m] Added Property into datastore_data table
+[      script:webpack] chat: built webpack.config.js
+[ citizen-server-impl] Build tasks completed - starting resource chat.
+[    c-scripting-core] Creating script environments for chat
+[ citizen-server-impl] Started resource chat
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 158 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 122 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 159 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 109 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 127 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 166 milliseconds
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 103 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 152 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 118 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 206 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 185 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 160 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 154 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 550 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 585 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 230 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 315 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 186 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 110 milliseconds
+[      script:hardcap] Connecting: bayy
+[ citizen-server-impl] server thread hitch warning: timer interval of 160 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 106 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 134 milliseconds
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 245 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 174 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 101 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 162 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 130 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 189 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 216 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 222 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 242 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 108 milliseconds
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 257 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 210 milliseconds
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] sync thread hitch warning: timer interval of 125 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 149 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 211 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 109 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 174 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 384 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 269 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 170 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 630 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 111 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 129 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 160 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 117 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 102 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 161 milliseconds
+[      script:oxmysql] [WARNING] esx_multicharacter took 206.7743ms to execute a query!
+[      script:oxmysql]     SELECT slots FROM multicharacter_slots WHERE identifier = ? ["854ee8318dc8a6d2587ec081ec7d55afcd163694"]
+[ citizen-server-impl] sync thread hitch warning: timer interval of 138 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 101 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 127 milliseconds
+[  script:es_extended] [INFO] Player "Boren Admin" has connected to the server. ID: 1
+[ citizen-server-impl] server thread hitch warning: timer interval of 319 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 152 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 132 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 173 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 174 milliseconds
+[  script:es_extended] [ERROR] Server callback "hud:server:getRank"[97m does not exist. Please Check ps-hud for Errors!
+[ citizen-server-impl] sync thread hitch warning: timer interval of 115 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 154 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 107 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 102 milliseconds
+[  script:es_extended] [INFO] Saved player "Boren Admin"
+
+================================================================
+======== FXServer Starting - 2/27/2023, 6:57:51 AM              
+================================================================
+[    c-scripting-core] Creating script environments for _cfx_internal
+[           resources] [32mScanning resources.
+[resources:Roda_OffDu] Warning: [Roda_OffDuty-main] is a category, but has a resource manifest (if this is meant to be a resource, don't use [] around the name)
+[   resources:esx-job] Warning: esx-job does not have a resource manifest (fxmanifest.lua)
+[resources:esx-vb-ban] Warning: esx-vb-banking-main does not have a resource manifest (fxmanifest.lua)
+[    resources:Client] Warning: Client does not have a resource manifest (fxmanifest.lua)
+[      resources:html] Warning: html does not have a resource manifest (fxmanifest.lua)
+[    resources:Server] Warning: Server does not have a resource manifest (fxmanifest.lua)
+[           resources] Found 88 resources.
+[           resources] 6 warnings were encountered.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[ citizen-server-impl] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdminClient] Version 5.2.0 starting...
+[ citizen-server-impl] Started resource monitor
+[    c-scripting-core] Creating script environments for yarn
+[ citizen-server-impl] Started resource yarn
+[    c-scripting-core] Creating script environments for webpack
+[ citizen-server-impl] Started resource webpack
+[    c-scripting-core] Creating script environments for chat
+[ citizen-server-impl] Started resource chat
+[ citizen-server-impl] Started resource spawnmanager
+[    c-scripting-core] Creating script environments for hardcap
+[ citizen-server-impl] Started resource hardcap
+[    c-scripting-core] Creating script environments for oxmysql
+[ citizen-server-impl] Started resource oxmysql
+[ citizen-server-impl] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for es_extended
+[ citizen-server-impl] Started resource es_extended
+[    c-scripting-core] Creating script environments for async
+[ citizen-server-impl] Started resource async
+[    c-scripting-core] Creating script environments for cron
+[ citizen-server-impl] Started resource cron
+[    c-scripting-core] Creating script environments for esx_context
+[ citizen-server-impl] Started resource esx_context
+[    c-scripting-core] Creating script environments for esx_identity
+[ citizen-server-impl] Started resource esx_identity
+[ citizen-server-impl] Started resource esx_loadingscreen
+[ citizen-server-impl] Started resource esx_menu_default
+[ citizen-server-impl] Started resource esx_menu_dialog
+[ citizen-server-impl] Started resource esx_menu_list
+[ citizen-server-impl] Started resource skinchanger
+[    c-scripting-core] Creating script environments for esx_skin
+[ citizen-server-impl] Started resource esx_skin
+[    c-scripting-core] Creating script environments for esx_multicharacter
+[ citizen-server-impl] Started resource esx_multicharacter
+[    c-scripting-core] Creating script environments for esx_notify
+[ citizen-server-impl] Started resource esx_notify
+[    c-scripting-core] Creating script environments for esx_progressbar
+[ citizen-server-impl] Started resource esx_progressbar
+[    c-scripting-core] Creating script environments for esx_textui
+[ citizen-server-impl] Started resource esx_textui
+[                 cmd] Argument count mismatch (passed 2, wanted 1)
+[    c-scripting-core] Creating script environments for ox_lib
+[ citizen-server-impl] Started resource ox_lib
+[    c-scripting-core] Creating script environments for ox_inventory
+[ citizen-server-impl] Started resource ox_inventory
+[    c-scripting-core] Creating script environments for ox_target
+[ citizen-server-impl] Started resource ox_target
+[ citizen-server-impl] Started resource esx_recording-main
+[ citizen-server-impl] Couldn't find resource category [Roda_OffDuty-main].
+[ citizen-server-impl] Asset topfoil/topfoil.ytd uses 51.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset topfoil/topfoil.ytd uses 51.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Started resource topfoil
+[ citizen-server-impl] Started resource SLBK11_MissionRow
+[    c-scripting-core] Creating script environments for pma-voice
+[ citizen-server-impl] Started resource pma-voice
+[    c-scripting-core] [0mCreating script environments for ps-hud
+[       script:ps-hud] Error parsing script @ps-hud/server.lua in resource ps-hud: @ps-hud/server.lua:49: unexpected symbol near '<\226>'
+[    c-scripting-core] Failed to load script server.lua.
+[ citizen-server-impl] Started resource ps-hud
+[    c-scripting-core] Creating script environments for esx-lunar_garage-main
+[ citizen-server-impl] Started resource esx-lunar_garage-main
+[    c-scripting-core] [0mCreating script environments for esx-radio
+[ citizen-server-impl] Started resource esx-radio
+[    c-scripting-core] Creating script environments for esx_datastore
+[ citizen-server-impl] Started resource esx_datastore
+[    c-scripting-core] Creating script environments for esx_accessories
+[ citizen-server-impl] Started resource esx_accessories
+[    c-scripting-core] Creating script environments for esx_addonaccount
+[ citizen-server-impl] Started resource esx_addonaccount
+[    c-scripting-core] Creating script environments for esx_vehicleshop
+[ citizen-server-impl] Started resource esx_vehicleshop
+[    c-scripting-core] Creating script environments for esx_ambulancejob
+[ citizen-server-impl] Started resource esx_ambulancejob
+[ citizen-server-impl] Started resource esx_animations
+[    c-scripting-core] Creating script environments for esx_banking
+[ citizen-server-impl] Started resource esx_banking
+[    c-scripting-core] Creating script environments for esx_barbershop
+[ citizen-server-impl] Started resource esx_barbershop
+[    c-scripting-core] Creating script environments for esx_status
+[ citizen-server-impl] Started resource esx_status
+[    c-scripting-core] Creating script environments for esx_basicneeds
+[ citizen-server-impl] Started resource esx_basicneeds
+[    c-scripting-core] Creating script environments for esx_billing
+[ citizen-server-impl] Started resource esx_billing
+[    c-scripting-core] Creating script environments for esx_clotheshop
+[ citizen-server-impl] Started resource esx_clotheshop
+[    c-scripting-core] Creating script environments for esx_license
+[ citizen-server-impl] Started resource esx_license
+[    c-scripting-core] Creating script environments for esx_dmvschool
+[ citizen-server-impl] Started resource esx_dmvschool
+[    c-scripting-core] Creating script environments for esx_drugs
+[ citizen-server-impl] Started resource esx_drugs
+[    c-scripting-core] Creating script environments for esx_joblisting
+[ citizen-server-impl] Started resource esx_joblisting
+[    c-scripting-core] Creating script environments for esx_jobs
+[ citizen-server-impl] Started resource esx_jobs
+[    c-scripting-core] Creating script environments for esx_lscustom
+[ citizen-server-impl] Started resource esx_lscustom
+[    c-scripting-core] Creating script environments for esx_society
+[ citizen-server-impl] Started resource esx_society
+[    c-scripting-core] Creating script environments for esx_mechanicjob
+[ citizen-server-impl] Started resource esx_mechanicjob
+[    c-scripting-core] Creating script environments for esx_optionalneeds
+[ citizen-server-impl] Started resource esx_optionalneeds
+[    c-scripting-core] [0mCreating script environments for esx_policejob
+[ citizen-server-impl] Started resource esx_policejob
+[    c-scripting-core] Creating script environments for esx_property
+[ citizen-server-impl] Started resource esx_property
+[    c-scripting-core] Creating script environments for esx_rpchat
+[ citizen-server-impl] Started resource esx_rpchat
+[    c-scripting-core] Creating script environments for esx_service
+[ citizen-server-impl] Started resource esx_service
+[    c-scripting-core] Creating script environments for esx_shops
+[ citizen-server-impl] Started resource esx_shops
+[    c-scripting-core] Creating script environments for esx_sit
+[ citizen-server-impl] Started resource esx_sit
+[    c-scripting-core] Creating script environments for esx_taxijob
+[ citizen-server-impl] Started resource esx_taxijob
+[    c-scripting-core] Creating script environments for esx_weaponshop
+[ citizen-server-impl] Started resource esx_weaponshop
+[      script:oxmysql] Database server connection established!
+[      script:monitor] [txAdminClient] Threads and commands set up. All Ready.
+[ script:ox_inventory] [info] Database contains 33 items.
+[script:ox_inventory:] Warning: Some third-party resources may conflict with item and inventory data structure.
+[  script:es_extended] [INFO] ESX Legacy 1.9.3 initialized!
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://chillbayy-9q4bey.users.cfx.re/
+[       script:ox_lib] An update is available for ox_lib (current version: 2.21.0)
+[       script:ox_lib] https://github.com/overextended/ox_lib/releases/tag/v3.0.1
+[       script:ox_lib] An update is available for ox_target (current version: 1.7.1)
+[       script:ox_lib] https://github.com/overextended/ox_target/releases/tag/v1.7.2
+[       script:ox_lib] An update is available for ox_inventory (current version: 2.24.1)
+[       script:ox_lib] https://github.com/overextended/ox_inventory/releases/tag/v2.24.2
+[ script:ox_inventory] [info] Inventory has loaded 198 items
+
+================================================================
+======== FXServer Starting - 2/27/2023, 6:58:22 AM              
+================================================================
+[    c-scripting-core] Creating script environments for _cfx_internal
+[           resources] Scanning resources.
+[resources:Roda_OffDu] Warning: [Roda_OffDuty-main] is a category, but has a resource manifest (if this is meant to be a resource, don't use [] around the name)
+[   resources:esx-job] Warning: esx-job does not have a resource manifest (fxmanifest.lua)
+[resources:esx-vb-ban] Warning: esx-vb-banking-main does not have a resource manifest (fxmanifest.lua)
+[    resources:Client] Warning: Client does not have a resource manifest (fxmanifest.lua)
+[      resources:html] Warning: html does not have a resource manifest (fxmanifest.lua)
+[    resources:Server] Warning: Server does not have a resource manifest (fxmanifest.lua)
+[           resources] Found 88 resources.
+[           resources] 6 warnings were encountered.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[ citizen-server-impl] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdminClient] Version 5.2.0 starting...
+[ citizen-server-impl] Started resource monitor
+[    c-scripting-core] Creating script environments for yarn
+[ citizen-server-impl] Started resource yarn
+[    c-scripting-core] Creating script environments for webpack
+[ citizen-server-impl] Started resource webpack
+[    c-scripting-core] Creating script environments for chat
+[ citizen-server-impl] Started resource chat
+[ citizen-server-impl] Started resource spawnmanager
+[    c-scripting-core] [0mCreating script environments for hardcap
+[ citizen-server-impl] Started resource hardcap
+[    c-scripting-core] Creating script environments for oxmysql
+[ citizen-server-impl] Started resource oxmysql
+[ citizen-server-impl] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for es_extended
+[ citizen-server-impl] Started resource es_extended
+[    c-scripting-core] Creating script environments for async
+[ citizen-server-impl] Started resource async
+[    c-scripting-core] Creating script environments for cron
+[ citizen-server-impl] Started resource cron
+[    c-scripting-core] Creating script environments for esx_context
+[ citizen-server-impl] Started resource esx_context
+[    c-scripting-core] [97mCreating script environments for esx_identity
+[ citizen-server-impl] Started resource esx_identity
+[ citizen-server-impl] Started resource esx_loadingscreen
+[ citizen-server-impl] Started resource esx_menu_default
+[ citizen-server-impl] Started resource esx_menu_dialog
+[ citizen-server-impl] Started resource esx_menu_list
+[ citizen-server-impl] [97mStarted resource skinchanger
+[    c-scripting-core] [97mCreating script environments for esx_skin
+[ citizen-server-impl] Started resource esx_skin
+[    c-scripting-core] Creating script environments for esx_multicharacter
+[ citizen-server-impl] Started resource esx_multicharacter
+[    c-scripting-core] Creating script environments for esx_notify
+[ citizen-server-impl] Started resource esx_notify
+[    c-scripting-core] Creating script environments for esx_progressbar
+[ citizen-server-impl] Started resource esx_progressbar
+[    c-scripting-core] Creating script environments for esx_textui
+[ citizen-server-impl] Started resource esx_textui
+[                 cmd] Argument count mismatch (passed 2, wanted 1)
+[    c-scripting-core] Creating script environments for ox_lib
+[ citizen-server-impl] Started resource ox_lib
+[    c-scripting-core] Creating script environments for ox_inventory
+[ citizen-server-impl] Started resource ox_inventory
+[    c-scripting-core] Creating script environments for ox_target
+[ citizen-server-impl] Started resource ox_target
+[ citizen-server-impl] Started resource esx_recording-main
+[ citizen-server-impl] Couldn't find resource category [Roda_OffDuty-main].
+[ citizen-server-impl] Asset topfoil/topfoil.ytd uses 51.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Started resource topfoil
+[ citizen-server-impl] Started resource SLBK11_MissionRow
+[    c-scripting-core] Creating script environments for pma-voice
+[ citizen-server-impl] Started resource pma-voice
+[    c-scripting-core] Creating script environments for ps-hud
+[       script:ps-hud] Error parsing script @ps-hud/server.lua in resource ps-hud: @ps-hud/server.lua:49: unexpected symbol near '<\226>'
+[    c-scripting-core] Failed to load script server.lua.
+[ citizen-server-impl] Started resource ps-hud
+[    c-scripting-core] Creating script environments for esx-lunar_garage-main
+[ citizen-server-impl] Started resource esx-lunar_garage-main
+[    c-scripting-core] Creating script environments for esx-radio
+[ citizen-server-impl] Started resource esx-radio
+[    c-scripting-core] Creating script environments for esx_datastore
+[ citizen-server-impl] Started resource esx_datastore
+[    c-scripting-core] Creating script environments for esx_accessories
+[ citizen-server-impl] Started resource esx_accessories
+[    c-scripting-core] Creating script environments for esx_addonaccount
+[ citizen-server-impl] Started resource esx_addonaccount
+[    c-scripting-core] Creating script environments for esx_vehicleshop
+[ citizen-server-impl] Started resource esx_vehicleshop
+[    c-scripting-core] [0mCreating script environments for esx_ambulancejob
+[ citizen-server-impl] Started resource esx_ambulancejob
+[ citizen-server-impl] Started resource esx_animations
+[    c-scripting-core] Creating script environments for esx_banking
+[ citizen-server-impl] Started resource esx_banking
+[    c-scripting-core] Creating script environments for esx_barbershop
+[ citizen-server-impl] Started resource esx_barbershop
+[    c-scripting-core] Creating script environments for esx_status
+[ citizen-server-impl] Started resource esx_status
+[    c-scripting-core] Creating script environments for esx_basicneeds
+[ citizen-server-impl] Started resource esx_basicneeds
+[    c-scripting-core] Creating script environments for esx_billing
+[ citizen-server-impl] Started resource esx_billing
+[    c-scripting-core] Creating script environments for esx_clotheshop
+[ citizen-server-impl] Started resource esx_clotheshop
+[    c-scripting-core] Creating script environments for esx_license
+[ citizen-server-impl] Started resource esx_license
+[    c-scripting-core] Creating script environments for esx_dmvschool
+[ citizen-server-impl] Started resource esx_dmvschool
+[    c-scripting-core] Creating script environments for esx_drugs
+[ citizen-server-impl] Started resource esx_drugs
+[    c-scripting-core] [0mCreating script environments for esx_joblisting
+[ citizen-server-impl] Started resource esx_joblisting
+[    c-scripting-core] Creating script environments for esx_jobs
+[ citizen-server-impl] Started resource esx_jobs
+[    c-scripting-core] Creating script environments for esx_lscustom
+[ citizen-server-impl] Started resource esx_lscustom
+[    c-scripting-core] [0mCreating script environments for esx_society
+[ citizen-server-impl] Started resource esx_society
+[    c-scripting-core] Creating script environments for esx_mechanicjob
+[ citizen-server-impl] Started resource esx_mechanicjob
+[    c-scripting-core] [0mCreating script environments for esx_optionalneeds
+[ citizen-server-impl] Started resource esx_optionalneeds
+[    c-scripting-core] Creating script environments for esx_policejob
+[ citizen-server-impl] Started resource esx_policejob
+[    c-scripting-core] Creating script environments for esx_property
+[ citizen-server-impl] Started resource esx_property
+[    c-scripting-core] Creating script environments for esx_rpchat
+[ citizen-server-impl] Started resource esx_rpchat
+[    c-scripting-core] Creating script environments for esx_service
+[ citizen-server-impl] Started resource esx_service
+[    c-scripting-core] Creating script environments for esx_shops
+[ citizen-server-impl] Started resource esx_shops
+[    c-scripting-core] Creating script environments for esx_sit
+[ citizen-server-impl] Started resource esx_sit
+[    c-scripting-core] Creating script environments for esx_taxijob
+[ citizen-server-impl] Started resource esx_taxijob
+[    c-scripting-core] Creating script environments for esx_weaponshop
+[ citizen-server-impl] Started resource esx_weaponshop
+[      script:oxmysql] Database server connection established!
+[      script:monitor] [txAdminClient] Threads and commands set up. All Ready.
+[ script:ox_inventory] [info] Database contains 33 items.
+[script:ox_inventory:] Warning: Some third-party resources may conflict with item and inventory data structure.
+[  script:es_extended] [INFO] ESX Legacy 1.9.3 initialized!
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl] [91m  cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://chillbayy-9q4bey.users.cfx.re/
+[       script:ox_lib] An update is available for ox_inventory (current version: 2.24.1)
+[38;5;23m[       script:ox_lib] https://github.com/overextended/ox_inventory/releases/tag/v2.24.2
+[       script:ox_lib] An update is available for ox_lib (current version: 2.21.0)
+[       script:ox_lib] https://github.com/overextended/ox_lib/releases/tag/v3.0.1
+[       script:ox_lib] An update is available for ox_target (current version: 1.7.1)
+[       script:ox_lib] https://github.com/overextended/ox_target/releases/tag/v1.7.2
+[ script:ox_inventory] [info] Inventory has loaded 198 items
+[ script:esx_property] [INFO] Added Property into datastore_data table
+[ citizen-server-impl] sync thread hitch warning: timer interval of 124 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 105 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 170 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 172 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 195 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 156 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 126 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 142 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 191 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 101 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 196 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 197 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 221 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 107 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 105 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 156 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 158 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 169 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 284 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 244 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 258 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 311 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 290 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 457 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 203 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 195 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 164 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 165 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 119 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 104 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 136 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 119 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 128 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 169 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 234 milliseconds
+[      script:hardcap] Connecting: bayy
+[ citizen-server-impl] sync thread hitch warning: timer interval of 175 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 305 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 454 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 103 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 217 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 264 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 103 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 101 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 109 milliseconds
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[  script:es_extended] [INFO] Player "Boren Admin" has connected to the server. ID: 1
+[  script:es_extended] [ERROR] Server callback "hud:server:getRank" does not exist. Please Check [36mps-hud for Errors!
+[ citizen-server-impl] server thread hitch warning: timer interval of 155 milliseconds
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] sync thread hitch warning: timer interval of 121 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 126 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 128 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 161 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 232 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 192 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 140 milliseconds
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] server thread hitch warning: timer interval of 217 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 144 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 110 milliseconds
+[  script:es_extended] [INFO] Saved player "Boren Admin"
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] sync thread hitch warning: timer interval of 122 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 183 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 118 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 154 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 122 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 254 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 205 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 195 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 152 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 160 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 121 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 152 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 126 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 178 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 164 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 174 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 200 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 205 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 145 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 154 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 141 milliseconds
+[ citizen-server-impl] [0mnetwork thread hitch warning: timer interval of 183 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 184 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 332 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 332 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 164 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 164 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 111 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 438 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 112 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 131 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 121 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 152 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 147 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 198 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 124 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 190 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 174 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 174 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 103 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 173 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 175 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 187 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 179 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 273 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 285 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 161 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 155 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 116 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 145 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 189 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 168 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 201 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 210 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 249 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 274 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 189 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 191 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 222 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 152 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 120 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 152 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 154 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 155 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 235 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 254 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 121 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 125 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 183 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 213 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 127 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 121 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 120 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 184 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 116 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 206 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 155 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 155 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 101 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 139 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 151 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 110 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 113 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 178 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 123 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 132 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 140 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 159 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 117 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 323 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 288 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 292 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 155 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 155 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 120 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 231 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 270 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 324 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 110 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 107 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 155 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 119 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 157 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 119 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 180 milliseconds
+[ citizen-server-impl] [0mnetwork thread hitch warning: timer interval of 156 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 156 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 132 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 175 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 176 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 226 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 101 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 102 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 127 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 130 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 210 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 200 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 189 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 137 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 169 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 181 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 167 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 224 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 628 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 136 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 163 milliseconds
+[      script:hardcap] Connecting: bayy
+[ citizen-server-impl] server thread hitch warning: timer interval of 177 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 207 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 117 milliseconds
+[ citizen-server-impl] [0mserver thread hitch warning: timer interval of 188 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 260 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 160 milliseconds
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] sync thread hitch warning: timer interval of 112 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 131 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 195 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 249 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 249 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 529 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 313 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 203 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 163 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 174 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 245 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 198 milliseconds
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[  script:es_extended] [INFO] Player "Boren Admin" has connected to the server. ID: 2
+[  script:es_extended] [ERROR] Server callback "hud:server:getRank" does not exist. Please Check ps-hud for Errors!
+[  script:es_extended] [INFO] Saved player "Boren Admin"
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: A task was canceled. <- System.TimeoutException: A task was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
